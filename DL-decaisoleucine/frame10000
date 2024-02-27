@@ -1,0 +1,7303 @@
+# 
+# Molecular graphics exported from VMD 1.9.3
+# http://www.ks.uiuc.edu/Research/vmd/
+# 
+# Requires Tachyon version 0.99.0 or newer
+# 
+# Default tachyon rendering command for this scene:
+#   tachyon  -aasamples 12 %s -format TARGA -o %s.tga
+# 
+Begin_Scene
+Resolution 970 951
+Shader_Mode Full
+  Trans_VMD
+  Fog_VMD
+  Ambient_Occlusion
+    Ambient_Color 0.8 0.8 0.8
+    Rescale_Direct 0.3
+    Samples 12
+End_Shader_Mode
+Camera
+  Projection Orthographic
+  Zoom 0.333333
+  Aspectratio 1
+  Antialiasing 12
+  Raydepth 50
+  Center  0 0 -2
+  Viewdir -0 -0 2
+  Updir   0 1 -0
+End_Camera
+Directional_Light Direction 0.1 -0.1 1 Color 1 1 1
+Directional_Light Direction -1 -2 0.5 Color 1 1 1
+
+Background 1 1 1
+# MoleculeID: 8 ReprID: 0 Beginning CPK
+# MoleculeID: 8 ReprID: 0 Beginning VDW
+Sphere 
+  Center -1.2849 0.512187 0.0970239 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+Sphere 
+  Center -1.24994 0.392033 0.00252619 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center -1.09188 0.390608 -0.00588122 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center -1.02128 0.412491 0.0947984 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+Sphere 
+  Center -1.30753 0.245095 0.04863 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center -1.29539 0.139438 -0.0717544 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center -1.38172 0.000280738 -0.0543232 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center -1.24575 0.183731 0.186118 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center -1.03481 0.385851 -0.131399 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+Sphere 
+  Center -0.880974 0.355923 -0.160171 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center -0.844552 0.204726 -0.116949 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center -0.933372 0.110122 -0.144474 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+Sphere 
+  Center -0.848059 0.386226 -0.313213 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center -0.867977 0.543207 -0.329898 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center -0.879719 0.598623 -0.482376 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center -0.705763 0.329757 -0.356046 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center -0.724369 0.184863 -0.0536505 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+Sphere 
+  Center -0.683963 0.0509094 0.0208522 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center -0.549807 -0.00644983 -0.0451324 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center -0.454968 0.0652217 -0.0935894 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+Sphere 
+  Center -0.667396 0.0714865 0.182471 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center -0.533016 0.156571 0.217234 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center -0.480198 0.124453 0.367078 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center -0.795637 0.140427 0.249638 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center -0.529299 -0.145585 -0.0488156 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+Sphere 
+  Center -0.406267 -0.217039 -0.120855 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center -0.269902 -0.207458 -0.0344734 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center -0.278995 -0.229157 0.0882938 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+Sphere 
+  Center -0.453151 -0.365747 -0.159726 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center -0.600518 -0.388573 -0.231424 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center -0.620795 -0.318416 -0.370728 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center -0.345607 -0.440237 -0.251762 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center -0.14163 -0.190582 -0.0933003 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+Sphere 
+  Center -0.00701214 -0.179475 -0.0144177 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.052286 -0.0314934 -0.0287778 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.130136 0.0048952 -0.124637 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+Sphere 
+  Center 0.0859636 -0.306608 -0.0575997 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.112858 -0.325465 -0.214594 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.221865 -0.294712 0.0223725 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.289474 -0.441095 0.0385355 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.0205871 0.051781 0.074128 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+Sphere 
+  Center 0.0928135 0.189635 0.0903958 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.240255 0.16352 0.139939 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.262551 0.0874168 0.242622 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+Sphere 
+  Center 0.0145205 0.301603 0.180197 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.071417 0.453212 0.140556 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center -0.147458 0.293426 0.154617 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center -0.195215 0.298512 -0.00645549 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.338259 0.245137 0.0804658 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+Sphere 
+  Center 0.485826 0.240633 0.117169 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.543208 0.0857953 0.0899666 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.568603 0.0464838 -0.033716 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+Sphere 
+  Center 0.578959 0.354237 0.039133 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.517847 0.502834 0.0660701 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.609639 0.631726 0.0241467 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.73158 0.344971 0.0807313 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.563747 0.00212547 0.196713 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+Sphere 
+  Center 0.623097 -0.145006 0.187344 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.769659 -0.130951 0.121675 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.876089 -0.0919093 0.1844 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+Sphere 
+  Center 0.644626 -0.224308 0.330462 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.521572 -0.209585 0.429932 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.377014 -0.238654 0.365746 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.691457 -0.375045 0.307222 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.77457 -0.182783 -0.012086 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+Sphere 
+  Center 0.897124 -0.193287 -0.100281 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.945899 -0.346447 -0.0905326 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.85785 -0.442614 -0.104334 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+Sphere 
+  Center 0.868038 -0.138981 -0.248097 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.868686 0.0317072 -0.240916 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.887217 0.11681 -0.377539 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.973104 -0.200378 -0.353523 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 1.08346 -0.372065 -0.0621841 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+Sphere 
+  Center 1.15791 -0.516763 -0.0527728 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 1.31428 -0.51802 -0.0887914 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 1.37046 -0.413198 -0.146214 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+Sphere 
+  Center 1.38204 -0.629302 -0.077173 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+Sphere 
+  Center 1.14436 -0.580717 0.100537 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 1.1585 -0.463095 0.206269 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 1.16088 -0.525633 0.355349 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+Sphere 
+  Center 0.995458 -0.642707 0.108001 
+   Rad 0.0314923 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -1.2849 0.512187 0.0970239
+  Apex -1.26742 0.45211 0.049775
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+FCylinder
+  Base -1.24994 0.392033 0.00252619
+  Apex -1.26742 0.45211 0.049775
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -1.24994 0.392033 0.00252619
+  Apex -1.17091 0.39132 -0.00167748
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -1.24994 0.392033 0.00252619
+  Apex -1.27873 0.318564 0.0255782
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -1.09188 0.390608 -0.00588122
+  Apex -1.17091 0.39132 -0.00167748
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -1.09188 0.390608 -0.00588122
+  Apex -1.05658 0.401549 0.0444586
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -1.09188 0.390608 -0.00588122
+  Apex -1.06334 0.388229 -0.0686401
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -1.02128 0.412491 0.0947984
+  Apex -1.05658 0.401549 0.0444586
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+FCylinder
+  Base -1.30753 0.245095 0.04863
+  Apex -1.27664 0.214413 0.117374
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -1.30753 0.245095 0.04863
+  Apex -1.27873 0.318564 0.0255782
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -1.30753 0.245095 0.04863
+  Apex -1.30146 0.192266 -0.0115622
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -1.29539 0.139438 -0.0717544
+  Apex -1.33855 0.0698591 -0.0630389
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -1.29539 0.139438 -0.0717544
+  Apex -1.30146 0.192266 -0.0115622
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -1.38172 0.000280738 -0.0543232
+  Apex -1.33855 0.0698591 -0.0630389
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -1.24575 0.183731 0.186118
+  Apex -1.27664 0.214413 0.117374
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -1.03481 0.385851 -0.131399
+  Apex -0.957893 0.370887 -0.145785
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+FCylinder
+  Base -1.03481 0.385851 -0.131399
+  Apex -1.06334 0.388229 -0.0686401
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+FCylinder
+  Base -0.880974 0.355923 -0.160171
+  Apex -0.957893 0.370887 -0.145785
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.880974 0.355923 -0.160171
+  Apex -0.864517 0.371075 -0.236692
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.880974 0.355923 -0.160171
+  Apex -0.862763 0.280325 -0.13856
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.844552 0.204726 -0.116949
+  Apex -0.862763 0.280325 -0.13856
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.844552 0.204726 -0.116949
+  Apex -0.784461 0.194794 -0.0852999
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.844552 0.204726 -0.116949
+  Apex -0.888962 0.157424 -0.130712
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.933372 0.110122 -0.144474
+  Apex -0.888962 0.157424 -0.130712
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+FCylinder
+  Base -0.848059 0.386226 -0.313213
+  Apex -0.858018 0.464717 -0.321556
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.848059 0.386226 -0.313213
+  Apex -0.776911 0.357992 -0.33463
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.848059 0.386226 -0.313213
+  Apex -0.864517 0.371075 -0.236692
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.867977 0.543207 -0.329898
+  Apex -0.858018 0.464717 -0.321556
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.867977 0.543207 -0.329898
+  Apex -0.873848 0.570915 -0.406137
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.879719 0.598623 -0.482376
+  Apex -0.873848 0.570915 -0.406137
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.705763 0.329757 -0.356046
+  Apex -0.776911 0.357992 -0.33463
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.724369 0.184863 -0.0536505
+  Apex -0.784461 0.194794 -0.0852999
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+FCylinder
+  Base -0.724369 0.184863 -0.0536505
+  Apex -0.704166 0.117886 -0.0163991
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+FCylinder
+  Base -0.683963 0.0509094 0.0208522
+  Apex -0.616885 0.0222298 -0.0121401
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.683963 0.0509094 0.0208522
+  Apex -0.67568 0.061198 0.101661
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.683963 0.0509094 0.0208522
+  Apex -0.704166 0.117886 -0.0163991
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.549807 -0.00644983 -0.0451324
+  Apex -0.616885 0.0222298 -0.0121401
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.549807 -0.00644983 -0.0451324
+  Apex -0.539553 -0.0760176 -0.0469741
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.549807 -0.00644983 -0.0451324
+  Apex -0.502388 0.0293859 -0.0693608
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.454968 0.0652217 -0.0935894
+  Apex -0.502388 0.0293859 -0.0693608
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+FCylinder
+  Base -0.667396 0.0714865 0.182471
+  Apex -0.731517 0.105957 0.216054
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.667396 0.0714865 0.182471
+  Apex -0.67568 0.061198 0.101661
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.667396 0.0714865 0.182471
+  Apex -0.600206 0.114029 0.199852
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.533016 0.156571 0.217234
+  Apex -0.506607 0.140512 0.292156
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.533016 0.156571 0.217234
+  Apex -0.600206 0.114029 0.199852
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.480198 0.124453 0.367078
+  Apex -0.506607 0.140512 0.292156
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.795637 0.140427 0.249638
+  Apex -0.731517 0.105957 0.216054
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.529299 -0.145585 -0.0488156
+  Apex -0.539553 -0.0760176 -0.0469741
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+FCylinder
+  Base -0.529299 -0.145585 -0.0488156
+  Apex -0.467783 -0.181312 -0.0848356
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+FCylinder
+  Base -0.406267 -0.217039 -0.120855
+  Apex -0.467783 -0.181312 -0.0848356
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.406267 -0.217039 -0.120855
+  Apex -0.429709 -0.291393 -0.140291
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.406267 -0.217039 -0.120855
+  Apex -0.338085 -0.212249 -0.0776644
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.269902 -0.207458 -0.0344734
+  Apex -0.274448 -0.218307 0.0269101
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.269902 -0.207458 -0.0344734
+  Apex -0.205766 -0.19902 -0.0638867
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.269902 -0.207458 -0.0344734
+  Apex -0.338085 -0.212249 -0.0776644
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.278995 -0.229157 0.0882938
+  Apex -0.274448 -0.218307 0.0269101
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+FCylinder
+  Base -0.453151 -0.365747 -0.159726
+  Apex -0.429709 -0.291393 -0.140291
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.453151 -0.365747 -0.159726
+  Apex -0.399379 -0.402992 -0.205744
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.453151 -0.365747 -0.159726
+  Apex -0.526834 -0.37716 -0.195575
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.600518 -0.388573 -0.231424
+  Apex -0.610656 -0.353494 -0.301076
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.600518 -0.388573 -0.231424
+  Apex -0.526834 -0.37716 -0.195575
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.620795 -0.318416 -0.370728
+  Apex -0.610656 -0.353494 -0.301076
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.345607 -0.440237 -0.251762
+  Apex -0.399379 -0.402992 -0.205744
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.14163 -0.190582 -0.0933003
+  Apex -0.205766 -0.19902 -0.0638867
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+FCylinder
+  Base -0.14163 -0.190582 -0.0933003
+  Apex -0.0743209 -0.185029 -0.0538589
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+FCylinder
+  Base -0.00701214 -0.179475 -0.0144177
+  Apex 0.0226369 -0.105484 -0.0215978
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.00701214 -0.179475 -0.0144177
+  Apex 0.0394757 -0.243042 -0.0360086
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.00701214 -0.179475 -0.0144177
+  Apex -0.0743209 -0.185029 -0.0538589
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.052286 -0.0314934 -0.0287778
+  Apex 0.0226369 -0.105484 -0.0215978
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.052286 -0.0314934 -0.0287778
+  Apex 0.0364366 0.0101438 0.0226751
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.052286 -0.0314934 -0.0287778
+  Apex 0.091211 -0.0132991 -0.0767073
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.130136 0.0048952 -0.124637
+  Apex 0.091211 -0.0132991 -0.0767073
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+FCylinder
+  Base 0.0859636 -0.306608 -0.0575997
+  Apex 0.0394757 -0.243042 -0.0360086
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.0859636 -0.306608 -0.0575997
+  Apex 0.153915 -0.30066 -0.0176136
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.0859636 -0.306608 -0.0575997
+  Apex 0.0994109 -0.316036 -0.136097
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.112858 -0.325465 -0.214594
+  Apex 0.0994109 -0.316036 -0.136097
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.221865 -0.294712 0.0223725
+  Apex 0.153915 -0.30066 -0.0176136
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.221865 -0.294712 0.0223725
+  Apex 0.25567 -0.367904 0.030454
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.289474 -0.441095 0.0385355
+  Apex 0.25567 -0.367904 0.030454
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.0205871 0.051781 0.074128
+  Apex 0.0567002 0.120708 0.082262
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+FCylinder
+  Base 0.0205871 0.051781 0.074128
+  Apex 0.0364366 0.0101438 0.0226751
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+FCylinder
+  Base 0.0928135 0.189635 0.0903958
+  Apex 0.166534 0.176577 0.115168
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.0928135 0.189635 0.0903958
+  Apex 0.053667 0.245619 0.135296
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.0928135 0.189635 0.0903958
+  Apex 0.0567002 0.120708 0.082262
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.240255 0.16352 0.139939
+  Apex 0.166534 0.176577 0.115168
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.240255 0.16352 0.139939
+  Apex 0.289257 0.204329 0.110203
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.240255 0.16352 0.139939
+  Apex 0.251403 0.125468 0.191281
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.262551 0.0874168 0.242622
+  Apex 0.251403 0.125468 0.191281
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+FCylinder
+  Base 0.0145205 0.301603 0.180197
+  Apex -0.0664685 0.297515 0.167407
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.0145205 0.301603 0.180197
+  Apex 0.053667 0.245619 0.135296
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.0145205 0.301603 0.180197
+  Apex 0.0429688 0.377408 0.160376
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.071417 0.453212 0.140556
+  Apex 0.0429688 0.377408 0.160376
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.147458 0.293426 0.154617
+  Apex -0.171336 0.295969 0.0740809
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.147458 0.293426 0.154617
+  Apex -0.0664685 0.297515 0.167407
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base -0.195215 0.298512 -0.00645549
+  Apex -0.171336 0.295969 0.0740809
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.338259 0.245137 0.0804658
+  Apex 0.289257 0.204329 0.110203
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+FCylinder
+  Base 0.338259 0.245137 0.0804658
+  Apex 0.412043 0.242885 0.0988173
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+FCylinder
+  Base 0.485826 0.240633 0.117169
+  Apex 0.532393 0.297435 0.0781507
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.485826 0.240633 0.117169
+  Apex 0.514517 0.163214 0.103568
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.485826 0.240633 0.117169
+  Apex 0.412043 0.242885 0.0988173
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.543208 0.0857953 0.0899666
+  Apex 0.514517 0.163214 0.103568
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.543208 0.0857953 0.0899666
+  Apex 0.555905 0.0661396 0.0281253
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.543208 0.0857953 0.0899666
+  Apex 0.553477 0.0439604 0.14334
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.568603 0.0464838 -0.033716
+  Apex 0.555905 0.0661396 0.0281253
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+FCylinder
+  Base 0.578959 0.354237 0.039133
+  Apex 0.532393 0.297435 0.0781507
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.578959 0.354237 0.039133
+  Apex 0.655269 0.349604 0.0599322
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.578959 0.354237 0.039133
+  Apex 0.548403 0.428536 0.0526014
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.517847 0.502834 0.0660701
+  Apex 0.548403 0.428536 0.0526014
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.517847 0.502834 0.0660701
+  Apex 0.563743 0.56728 0.0451084
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.609639 0.631726 0.0241467
+  Apex 0.563743 0.56728 0.0451084
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.73158 0.344971 0.0807313
+  Apex 0.655269 0.349604 0.0599322
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.563747 0.00212547 0.196713
+  Apex 0.553477 0.0439604 0.14334
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+FCylinder
+  Base 0.563747 0.00212547 0.196713
+  Apex 0.593422 -0.0714402 0.192028
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+FCylinder
+  Base 0.623097 -0.145006 0.187344
+  Apex 0.633861 -0.184657 0.258903
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.623097 -0.145006 0.187344
+  Apex 0.696378 -0.137978 0.154509
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.623097 -0.145006 0.187344
+  Apex 0.593422 -0.0714402 0.192028
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.769659 -0.130951 0.121675
+  Apex 0.696378 -0.137978 0.154509
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.769659 -0.130951 0.121675
+  Apex 0.772114 -0.156867 0.0547944
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.769659 -0.130951 0.121675
+  Apex 0.822874 -0.11143 0.153037
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.876089 -0.0919093 0.1844
+  Apex 0.822874 -0.11143 0.153037
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+FCylinder
+  Base 0.644626 -0.224308 0.330462
+  Apex 0.633861 -0.184657 0.258903
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.644626 -0.224308 0.330462
+  Apex 0.668041 -0.299677 0.318842
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.644626 -0.224308 0.330462
+  Apex 0.583099 -0.216946 0.380197
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.521572 -0.209585 0.429932
+  Apex 0.449293 -0.22412 0.397839
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.521572 -0.209585 0.429932
+  Apex 0.583099 -0.216946 0.380197
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.377014 -0.238654 0.365746
+  Apex 0.449293 -0.22412 0.397839
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.691457 -0.375045 0.307222
+  Apex 0.668041 -0.299677 0.318842
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.77457 -0.182783 -0.012086
+  Apex 0.772114 -0.156867 0.0547944
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+FCylinder
+  Base 0.77457 -0.182783 -0.012086
+  Apex 0.835847 -0.188035 -0.0561837
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+FCylinder
+  Base 0.897124 -0.193287 -0.100281
+  Apex 0.882581 -0.166134 -0.174189
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.897124 -0.193287 -0.100281
+  Apex 0.835847 -0.188035 -0.0561837
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.897124 -0.193287 -0.100281
+  Apex 0.921511 -0.269867 -0.0954069
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.945899 -0.346447 -0.0905326
+  Apex 0.901874 -0.394531 -0.0974334
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.945899 -0.346447 -0.0905326
+  Apex 0.921511 -0.269867 -0.0954069
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.945899 -0.346447 -0.0905326
+  Apex 1.01468 -0.359256 -0.0763584
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.85785 -0.442614 -0.104334
+  Apex 0.901874 -0.394531 -0.0974334
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+FCylinder
+  Base 0.868038 -0.138981 -0.248097
+  Apex 0.868362 -0.0536369 -0.244507
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.868038 -0.138981 -0.248097
+  Apex 0.920571 -0.169679 -0.30081
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.868038 -0.138981 -0.248097
+  Apex 0.882581 -0.166134 -0.174189
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.868686 0.0317072 -0.240916
+  Apex 0.868362 -0.0536369 -0.244507
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.868686 0.0317072 -0.240916
+  Apex 0.877952 0.0742587 -0.309227
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.887217 0.11681 -0.377539
+  Apex 0.877952 0.0742587 -0.309227
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.973104 -0.200378 -0.353523
+  Apex 0.920571 -0.169679 -0.30081
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 1.08346 -0.372065 -0.0621841
+  Apex 1.12068 -0.444414 -0.0574784
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+FCylinder
+  Base 1.08346 -0.372065 -0.0621841
+  Apex 1.01468 -0.359256 -0.0763584
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+FCylinder
+  Base 1.15791 -0.516763 -0.0527728
+  Apex 1.15113 -0.54874 0.0238821
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 1.15791 -0.516763 -0.0527728
+  Apex 1.12068 -0.444414 -0.0574784
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 1.15791 -0.516763 -0.0527728
+  Apex 1.23609 -0.517391 -0.0707823
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 1.31428 -0.51802 -0.0887914
+  Apex 1.34237 -0.465609 -0.117503
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 1.31428 -0.51802 -0.0887914
+  Apex 1.34816 -0.573661 -0.0829823
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 1.31428 -0.51802 -0.0887914
+  Apex 1.23609 -0.517391 -0.0707823
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 1.37046 -0.413198 -0.146214
+  Apex 1.34237 -0.465609 -0.117503
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+FCylinder
+  Base 1.38204 -0.629302 -0.077173
+  Apex 1.34816 -0.573661 -0.0829823
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 1 0 0 TexFunc 0
+
+FCylinder
+  Base 1.14436 -0.580717 0.100537
+  Apex 1.15143 -0.521906 0.153403
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 1.14436 -0.580717 0.100537
+  Apex 1.15113 -0.54874 0.0238821
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 1.14436 -0.580717 0.100537
+  Apex 1.06991 -0.611712 0.104269
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 1.1585 -0.463095 0.206269
+  Apex 1.15143 -0.521906 0.153403
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 1.1585 -0.463095 0.206269
+  Apex 1.15969 -0.494364 0.280809
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 1.16088 -0.525633 0.355349
+  Apex 1.15969 -0.494364 0.280809
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+FCylinder
+  Base 0.995458 -0.642707 0.108001
+  Apex 1.06991 -0.611712 0.104269
+  Rad 0.0314923
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0.25 0.75 0.75 TexFunc 0
+
+# MoleculeID: 8 ReprID: 1 Beginning Ribbons
+VertexArray  Numverts 1692
+
+Coords
+-1.24994 0.408089 -0.00103557
+-1.23978 0.410806 0.0213901
+-1.23235 0.408493 0.0387613
+-1.22963 0.40177 0.0464232
+-1.23235 0.392438 0.042323
+-1.23979 0.382997 0.0275592
+-1.24994 0.375977 0.0060879
+-1.2601 0.37326 -0.0163378
+-1.26753 0.375573 -0.0337089
+-1.27025 0.382296 -0.041371
+-1.26753 0.391629 -0.0372706
+-1.26009 0.401069 -0.022507
+-1.25134 0.408226 -0.000418767
+-1.24118 0.410943 0.0220069
+-1.23375 0.40863 0.039378
+-1.23103 0.401907 0.0470399
+-1.23375 0.392574 0.0429396
+-1.24118 0.383134 0.0281758
+-1.25134 0.376114 0.00670457
+-1.26149 0.373397 -0.0157212
+-1.26893 0.37571 -0.0330924
+-1.27165 0.382433 -0.0407542
+-1.26893 0.391765 -0.0366539
+-1.26149 0.401206 -0.0218901
+-1.2551 0.408594 0.00124122
+-1.24495 0.411311 0.023667
+-1.23751 0.408999 0.041038
+-1.23479 0.402275 0.0487
+-1.23752 0.392943 0.0445999
+-1.24495 0.383502 0.0298361
+-1.2551 0.376483 0.00836471
+-1.26526 0.373765 -0.0140609
+-1.27269 0.376078 -0.0314321
+-1.27541 0.382802 -0.039094
+-1.27269 0.392134 -0.0349939
+-1.26526 0.401575 -0.0202301
+-1.26059 0.409131 0.00366044
+-1.25043 0.411848 0.0260861
+-1.243 0.409535 0.0434572
+-1.24028 0.402812 0.0511191
+-1.243 0.39348 0.0470189
+-1.25044 0.384039 0.0322551
+-1.26059 0.37702 0.0107836
+-1.27075 0.374302 -0.011642
+-1.27818 0.376615 -0.0290131
+-1.2809 0.383339 -0.0366749
+-1.27818 0.392671 -0.0325747
+-1.27074 0.402112 -0.017811
+-1.26715 0.409773 0.00655381
+-1.257 0.41249 0.0289796
+-1.24956 0.410178 0.0463506
+-1.24684 0.403454 0.0540126
+-1.24956 0.394122 0.0499125
+-1.257 0.384681 0.0351487
+-1.26715 0.377662 0.0136773
+-1.27731 0.374944 -0.00874844
+-1.28474 0.377257 -0.0261195
+-1.28746 0.383981 -0.0337815
+-1.28474 0.393313 -0.0296814
+-1.27731 0.402754 -0.0149176
+-1.27414 0.410458 0.00963704
+-1.26399 0.413175 0.0320628
+-1.25655 0.410862 0.0494338
+-1.25383 0.404139 0.0570957
+-1.25656 0.394806 0.0529954
+-1.26399 0.385366 0.0382317
+-1.27414 0.378346 0.0167603
+-1.2843 0.375629 -0.00566538
+-1.29173 0.377942 -0.0230365
+-1.29445 0.384665 -0.0306984
+-1.29173 0.393997 -0.0265982
+-1.2843 0.403438 -0.0118343
+-1.28092 0.411121 0.0126254
+-1.27077 0.413838 0.0350511
+-1.26333 0.411525 0.0524221
+-1.26061 0.404802 0.0600841
+-1.26333 0.395469 0.0559839
+-1.27077 0.386029 0.0412201
+-1.28092 0.379009 0.0197488
+-1.29108 0.376292 -0.00267693
+-1.29851 0.378605 -0.0200481
+-1.30123 0.385328 -0.02771
+-1.29851 0.394661 -0.0236098
+-1.29107 0.404101 -0.00884598
+-1.28684 0.4117 0.0152342
+-1.27668 0.414417 0.0376599
+-1.26925 0.412104 0.055031
+-1.26653 0.405381 0.062693
+-1.26925 0.396049 0.0585927
+-1.27668 0.386608 0.0438289
+-1.28684 0.379588 0.0223576
+-1.29699 0.376871 -6.80983e-05
+-1.30443 0.379184 -0.0174392
+-1.30715 0.385907 -0.0251011
+-1.30443 0.39524 -0.0210009
+-1.29699 0.40468 -0.00623703
+-1.29125 0.412131 0.017179
+-1.28109 0.414849 0.0396047
+-1.27366 0.412536 0.0569759
+-1.27094 0.405813 0.0646377
+-1.27366 0.39648 0.0605375
+-1.28109 0.387039 0.0457736
+-1.29125 0.38002 0.0243023
+-1.3014 0.377303 0.00187664
+-1.30884 0.379616 -0.0154945
+-1.31156 0.386339 -0.0231564
+-1.30884 0.395671 -0.0190561
+-1.3014 0.405112 -0.0042922
+-1.29351 0.380241 0.0252985
+-1.28335 0.387261 0.0467699
+-1.27592 0.396701 0.0615337
+-1.2732 0.406034 0.0656338
+-1.27592 0.412757 0.0579718
+-1.28335 0.41507 0.0406007
+-1.29351 0.412352 0.0181751
+-1.30366 0.405333 -0.0032963
+-1.31109 0.395892 -0.0180601
+-1.31382 0.38656 -0.0221603
+-1.3111 0.379837 -0.0144984
+-1.30366 0.377524 0.00287293
+-1.29297 0.380188 0.0250614
+-1.28281 0.387208 0.0465326
+-1.27538 0.396649 0.0612965
+-1.27266 0.405981 0.0653967
+-1.27538 0.412704 0.0577347
+-1.28281 0.415017 0.0403636
+-1.29297 0.4123 0.0179379
+-1.30312 0.40528 -0.00353342
+-1.31056 0.39584 -0.0182972
+-1.31328 0.386507 -0.0223975
+-1.31056 0.379784 -0.0147355
+-1.30312 0.377471 0.00263567
+-1.28899 0.379799 0.0233063
+-1.27883 0.386818 0.0447777
+-1.2714 0.396259 0.0595414
+-1.26868 0.405591 0.0636417
+-1.2714 0.412315 0.0559798
+-1.27883 0.414628 0.0386086
+-1.28899 0.41191 0.0161829
+-1.29914 0.404891 -0.00528836
+-1.30658 0.39545 -0.0200522
+-1.3093 0.386118 -0.0241524
+-1.30658 0.379394 -0.0164905
+-1.29914 0.377082 0.000880569
+-1.28092 0.379009 0.0197489
+-1.27077 0.386029 0.0412201
+-1.26333 0.395469 0.0559839
+-1.26061 0.404802 0.0600841
+-1.26333 0.411525 0.0524223
+-1.27077 0.413838 0.0350512
+-1.28092 0.411121 0.0126254
+-1.29107 0.404101 -0.00884593
+-1.29851 0.394661 -0.0236097
+-1.30123 0.385328 -0.02771
+-1.29851 0.378605 -0.0200481
+-1.29108 0.376292 -0.00267681
+-1.26812 0.377756 0.0141043
+-1.25797 0.384776 0.0355755
+-1.25053 0.394217 0.0503394
+-1.24781 0.403549 0.0544396
+-1.25053 0.410272 0.0467777
+-1.25796 0.412585 0.0294066
+-1.26812 0.409868 0.00698093
+-1.27827 0.402848 -0.0144905
+-1.28571 0.393408 -0.0292543
+-1.28843 0.384075 -0.0333545
+-1.28571 0.377352 -0.0256926
+-1.27828 0.375039 -0.00832139
+-1.24914 0.375922 0.00572868
+-1.23909 0.382949 0.0272482
+-1.23195 0.39241 0.0421434
+-1.22963 0.40177 0.0464232
+-1.23275 0.408521 0.0389409
+-1.24048 0.410854 0.0217012
+-1.25074 0.408144 -0.000676349
+-1.26079 0.401117 -0.0221959
+-1.26793 0.391656 -0.0370911
+-1.27025 0.382296 -0.041371
+-1.26713 0.375545 -0.0338885
+-1.2594 0.373212 -0.0166489
+-1.22649 0.374914 -0.00530048
+-1.21661 0.381941 0.0162956
+-1.20992 0.3914 0.0314001
+-1.20822 0.400757 0.0359659
+-1.21196 0.407506 0.0287694
+-1.22014 0.409837 0.011739
+-1.23056 0.407126 -0.0105619
+-1.24045 0.4001 -0.0321579
+-1.24713 0.390641 -0.0472625
+-1.24884 0.381284 -0.0518283
+-1.2451 0.374535 -0.0446318
+-1.23692 0.372204 -0.0276014
+-1.20363 0.375729 -0.0181457
+-1.19385 0.382747 0.00350031
+-1.18745 0.392184 0.0187414
+-1.18613 0.401511 0.0234936
+-1.19026 0.40823 0.0164836
+-1.19872 0.410539 -0.000410259
+-1.20925 0.40782 -0.0226613
+-1.21903 0.400802 -0.0443073
+-1.22544 0.391365 -0.0595484
+-1.22675 0.382038 -0.0643006
+-1.22262 0.375319 -0.0572905
+-1.21416 0.37301 -0.0403966
+-1.18044 0.377798 -0.032373
+-1.17072 0.384809 -0.0107002
+-1.16446 0.394228 0.00461361
+-1.16335 0.40353 0.00946535
+-1.16768 0.410224 0.00255506
+-1.1763 0.412515 -0.0142661
+-1.18688 0.40979 -0.0364904
+-1.1966 0.402778 -0.058163
+-1.20286 0.393359 -0.073477
+-1.20397 0.384057 -0.0783288
+-1.19964 0.377363 -0.0714183
+-1.19103 0.375072 -0.0545973
+-1.15685 0.380593 -0.0475454
+-1.14714 0.387603 -0.0258665
+-1.14092 0.397017 -0.0105351
+-1.13986 0.406312 -0.00565977
+-1.14423 0.412999 -0.0125464
+-1.15288 0.415285 -0.0293502
+-1.16348 0.412558 -0.0515681
+-1.17319 0.405548 -0.0732472
+-1.17941 0.396134 -0.0885785
+-1.18048 0.386839 -0.0934538
+-1.1761 0.380152 -0.0865671
+-1.16745 0.377866 -0.0697634
+-1.1328 0.383611 -0.0632194
+-1.12306 0.390624 -0.0415523
+-1.11678 0.400047 -0.0262537
+-1.11562 0.409355 -0.0214229
+-1.11991 0.416054 -0.0283543
+-1.12849 0.41835 -0.0451905
+-1.13906 0.415626 -0.0674205
+-1.1488 0.408613 -0.0890876
+-1.15509 0.39919 -0.104386
+-1.15624 0.389882 -0.109217
+-1.15195 0.383183 -0.102286
+-1.14337 0.380887 -0.0854494
+-1.10825 0.386362 -0.0789451
+-1.09845 0.393382 -0.0573069
+-1.092 0.402824 -0.0420876
+-1.09063 0.412157 -0.0373652
+-1.09469 0.418882 -0.0444047
+-1.10311 0.421196 -0.0613203
+-1.11363 0.418479 -0.0835793
+-1.12342 0.411459 -0.105217
+-1.12987 0.402017 -0.120437
+-1.13125 0.392684 -0.125159
+-1.12718 0.385959 -0.11812
+-1.11876 0.383645 -0.101204
+-1.08317 0.388371 -0.0942693
+-1.07329 0.395397 -0.0726766
+-1.06658 0.404857 -0.0575808
+-1.06485 0.414216 -0.0530275
+-1.06856 0.420966 -0.0602361
+-1.07672 0.423298 -0.0772754
+-1.08714 0.420588 -0.0995796
+-1.09703 0.413561 -0.121172
+-1.10374 0.404101 -0.136268
+-1.10547 0.394742 -0.140822
+-1.10175 0.387993 -0.133613
+-1.09359 0.38566 -0.116573
+-1.05757 0.389175 -0.108739
+-1.04755 0.396203 -0.0872072
+-1.04048 0.405667 -0.0722774
+-1.03827 0.41503 -0.0679508
+-1.04149 0.421785 -0.0753863
+-1.0493 0.42412 -0.0925914
+-1.05959 0.421411 -0.114957
+-1.0696 0.414383 -0.136489
+-1.07667 0.40492 -0.151418
+-1.07889 0.395556 -0.155745
+-1.07566 0.388802 -0.148309
+-1.06786 0.386466 -0.131104
+-1.03141 0.38833 -0.121907
+-1.02122 0.395346 -0.10045
+-1.0137 0.404777 -0.0857243
+-1.01086 0.414097 -0.0816765
+-1.01346 0.420808 -0.0893907
+-1.02081 0.423111 -0.1068
+-1.03093 0.420391 -0.12924
+-1.04112 0.413375 -0.150697
+-1.04864 0.403943 -0.165423
+-1.05148 0.394623 -0.169471
+-1.04888 0.387913 -0.161756
+-1.04153 0.385609 -0.144347
+-1.00466 0.385402 -0.133337
+-0.994268 0.392384 -0.111965
+-0.986196 0.401723 -0.0974735
+-0.982604 0.410915 -0.0937451
+-0.984454 0.417499 -0.101779
+-0.99125 0.41971 -0.119422
+-1.00117 0.416955 -0.141948
+-1.01156 0.409973 -0.163319
+-1.01963 0.400634 -0.177811
+-1.02322 0.391442 -0.181539
+-1.02137 0.384858 -0.173506
+-1.01458 0.382647 -0.155862
+-0.97724 0.379959 -0.142608
+-0.966623 0.386876 -0.121327
+-0.957926 0.396035 -0.107085
+-0.953479 0.404983 -0.103698
+-0.954474 0.411321 -0.112073
+-0.960644 0.413353 -0.129966
+-0.970337 0.410532 -0.152583
+-0.980954 0.403616 -0.173863
+-0.989651 0.394457 -0.188105
+-0.994098 0.385509 -0.191492
+-0.993103 0.37917 -0.183117
+-0.986933 0.377139 -0.165224
+-0.949048 0.371548 -0.149314
+-0.938186 0.378361 -0.128123
+-0.928821 0.387237 -0.114128
+-0.923462 0.395797 -0.111077
+-0.923545 0.401749 -0.119788
+-0.929047 0.403496 -0.137927
+-0.938495 0.400572 -0.160634
+-0.949357 0.39376 -0.181824
+-0.958722 0.384884 -0.19582
+-0.964081 0.376323 -0.198871
+-0.963998 0.370372 -0.19016
+-0.958495 0.368624 -0.17202
+-0.919932 0.359669 -0.153054
+-0.908827 0.366339 -0.131945
+-0.898798 0.374827 -0.11817
+-0.892531 0.382857 -0.115421
+-0.891706 0.388278 -0.124435
+-0.896544 0.389637 -0.142795
+-0.905749 0.386571 -0.165583
+-0.916854 0.379901 -0.186692
+-0.926883 0.371413 -0.200467
+-0.93315 0.363383 -0.203216
+-0.933975 0.357962 -0.194202
+-0.929137 0.356602 -0.175842
+-0.889767 0.343781 -0.153409
+-0.878434 0.350276 -0.132366
+-0.867782 0.358284 -0.118774
+-0.860665 0.36566 -0.116273
+-0.858989 0.370426 -0.125535
+-0.863204 0.371307 -0.144078
+-0.872181 0.368065 -0.166932
+-0.883514 0.36157 -0.187975
+-0.894166 0.353562 -0.201567
+-0.901284 0.346186 -0.204068
+-0.902959 0.341419 -0.194806
+-0.898744 0.340539 -0.176263
+-0.862566 0.327077 -0.14879
+-0.850276 0.334127 -0.128475
+-0.838452 0.341904 -0.115745
+-0.830262 0.348324 -0.114009
+-0.827901 0.351667 -0.123733
+-0.832001 0.351038 -0.142311
+-0.841464 0.346604 -0.164766
+-0.853754 0.339555 -0.18508
+-0.865578 0.331778 -0.197811
+-0.873768 0.325357 -0.199547
+-0.876129 0.322014 -0.189823
+-0.872029 0.322643 -0.171244
+-0.841409 0.311944 -0.140253
+-0.828176 0.319441 -0.120706
+-0.815212 0.326659 -0.108782
+-0.805991 0.331666 -0.107675
+-0.802984 0.333119 -0.117683
+-0.806997 0.330628 -0.136124
+-0.816954 0.324862 -0.158056
+-0.830188 0.317365 -0.177603
+-0.843152 0.310146 -0.189527
+-0.852372 0.30514 -0.190634
+-0.855379 0.303687 -0.180626
+-0.851366 0.306177 -0.162185
+-0.824837 0.297565 -0.128756
+-0.810749 0.305468 -0.109981
+-0.796867 0.311998 -0.0987115
+-0.78691 0.315405 -0.0979667
+-0.783546 0.314777 -0.107947
+-0.787676 0.310282 -0.125977
+-0.798194 0.303124 -0.147227
+-0.812281 0.295221 -0.166002
+-0.826164 0.288691 -0.177271
+-0.836121 0.285283 -0.178016
+-0.839485 0.285911 -0.168036
+-0.835355 0.290406 -0.150006
+-0.811755 0.282796 -0.114887
+-0.79693 0.291173 -0.0969023
+-0.782407 0.297199 -0.0861728
+-0.772077 0.299259 -0.0855735
+-0.768708 0.296802 -0.0952651
+-0.773204 0.290486 -0.112651
+-0.784359 0.282003 -0.133072
+-0.799184 0.273626 -0.151057
+-0.813707 0.267601 -0.161786
+-0.824037 0.26554 -0.162385
+-0.827406 0.267997 -0.152694
+-0.82291 0.274313 -0.135308
+-0.801474 0.266895 -0.0989725
+-0.786 0.275867 -0.0818422
+-0.77102 0.281741 -0.0716698
+-0.76055 0.282943 -0.0711809
+-0.757394 0.279151 -0.0805067
+-0.762398 0.27138 -0.0971481
+-0.774222 0.261714 -0.116646
+-0.789696 0.252741 -0.133776
+-0.804676 0.246867 -0.143949
+-0.815146 0.245665 -0.144438
+-0.818302 0.249458 -0.135112
+-0.813297 0.257228 -0.118471
+-0.793311 0.249609 -0.081407
+-0.777248 0.259288 -0.06523
+-0.761903 0.26535 -0.0557359
+-0.751388 0.266172 -0.055469
+-0.74852 0.261534 -0.064501
+-0.754069 0.252678 -0.0804112
+-0.766547 0.241977 -0.0989369
+-0.78261 0.232298 -0.115114
+-0.797955 0.226235 -0.124608
+-0.80847 0.225413 -0.124875
+-0.811338 0.230051 -0.115843
+-0.805789 0.238908 -0.0999327
+-0.786418 0.230852 -0.0627365
+-0.769819 0.241314 -0.0476228
+-0.754163 0.247833 -0.0389761
+-0.743646 0.248663 -0.0391135
+-0.741086 0.243581 -0.0479979
+-0.747169 0.233949 -0.0632489
+-0.760265 0.222348 -0.0807799
+-0.776864 0.211887 -0.0958934
+-0.79252 0.205367 -0.10454
+-0.803037 0.204537 -0.104403
+-0.805597 0.209619 -0.0955183
+-0.799514 0.219251 -0.0802675
+-0.779811 0.210511 -0.0436058
+-0.762738 0.221803 -0.0296622
+-0.746842 0.228984 -0.0220411
+-0.73638 0.23013 -0.0227848
+-0.734157 0.224934 -0.0316937
+-0.740768 0.214789 -0.0463812
+-0.754442 0.202412 -0.0629113
+-0.771515 0.191119 -0.0768548
+-0.787412 0.183938 -0.0844759
+-0.797873 0.182792 -0.0837321
+-0.800096 0.187988 -0.0748233
+-0.793485 0.198133 -0.0601359
+-0.772425 0.18842 -0.0247289
+-0.754961 0.200569 -0.0120469
+-0.738935 0.208575 -0.00561278
+-0.72864 0.210295 -0.00715056
+-0.726835 0.205266 -0.0162481
+-0.734003 0.194837 -0.0304679
+-0.748225 0.181802 -0.0459994
+-0.765689 0.169653 -0.0586814
+-0.781716 0.161646 -0.0651155
+-0.792011 0.159927 -0.0635778
+-0.793816 0.164955 -0.0544804
+-0.786647 0.175384 -0.0402606
+-0.763165 0.164402 -0.0068973
+-0.745413 0.177416 0.0044577
+-0.72942 0.186375 0.0095898
+-0.719472 0.188878 0.00712433
+-0.718234 0.184256 -0.00227858
+-0.726038 0.173747 -0.0160991
+-0.740793 0.160166 -0.0306342
+-0.758545 0.147152 -0.0419892
+-0.774537 0.138193 -0.0471213
+-0.784485 0.135689 -0.0446558
+-0.785723 0.140312 -0.0352529
+-0.777919 0.150821 -0.0214324
+-0.750968 0.138326 0.009009
+-0.733047 0.15219 0.0190102
+-0.717291 0.162176 0.0228046
+-0.707922 0.165607 0.0193753
+-0.70745 0.161564 0.00964154
+-0.716003 0.151132 -0.00378882
+-0.731288 0.137104 -0.017317
+-0.749209 0.123241 -0.0273181
+-0.764966 0.113255 -0.0311125
+-0.774335 0.109824 -0.0276833
+-0.774806 0.113866 -0.0179495
+-0.766253 0.124299 -0.00451922
+-0.734896 0.110134 0.0220681
+-0.71692 0.124804 0.0307326
+-0.701595 0.135812 0.0332472
+-0.693028 0.14021 0.0289378
+-0.693513 0.136818 0.0189592
+-0.702922 0.126546 0.00598518
+-0.718733 0.112146 -0.00650799
+-0.736709 0.0974769 -0.0151724
+-0.752034 0.0864685 -0.0176869
+-0.760602 0.0820709 -0.0133775
+-0.760116 0.0854623 -0.00339895
+-0.750707 0.0957341 0.00957505
+-0.714153 0.0797909 0.0314228
+-0.696213 0.0951896 0.0388023
+-0.681453 0.107133 0.0401649
+-0.673827 0.11242 0.0351448
+-0.675379 0.109635 0.0250878
+-0.685693 0.0995239 0.0126882
+-0.702005 0.0847958 0.00126883
+-0.719945 0.069397 -0.00611078
+-0.734705 0.0574539 -0.00747318
+-0.742331 0.0521664 -0.00245337
+-0.740779 0.0549514 0.00760377
+-0.730465 0.0650626 0.0200033
+-0.688269 0.0474865 0.036351
+-0.670388 0.0634778 0.0425123
+-0.656144 0.0761014 0.0428697
+-0.649355 0.0819749 0.0373276
+-0.651839 0.0795243 0.027371
+-0.66293 0.0694065 0.0156675
+-0.679657 0.0543324 0.0053533
+-0.697538 0.0383411 -0.000807911
+-0.711782 0.0257175 -0.0011654
+-0.718571 0.019844 0.00437678
+-0.716087 0.0222945 0.0143334
+-0.704996 0.0324124 0.0260368
+-0.661787 0.0154327 0.0365242
+-0.644086 0.031964 0.0417023
+-0.630406 0.0451948 0.041295
+-0.624412 0.0515798 0.0354116
+-0.627711 0.0494082 0.0256281
+-0.639418 0.0392619 0.0145665
+-0.656396 0.0238596 0.00519032
+-0.674097 0.0073283 1.20848e-05
+-0.687777 -0.00590253 0.000419386
+-0.69377 -0.0122875 0.00630306
+-0.690472 -0.010116 0.0160864
+-0.678765 3.04431e-05 0.027148
+-0.639035 -0.0139136 0.0324112
+-0.621579 0.00315039 0.0365986
+-0.608576 0.0170075 0.0354802
+-0.603509 0.0239447 0.0293555
+-0.607736 0.0221031 0.0198661
+-0.620124 0.0119763 0.00955417
+-0.637355 -0.00372231 0.00118318
+-0.65481 -0.0207863 -0.00300421
+-0.667814 -0.0346434 -0.00188576
+-0.672881 -0.0415806 0.00423887
+-0.668654 -0.039739 0.0137283
+-0.656266 -0.0296122 0.0240401
+-0.619342 -0.0406685 0.0245881
+-0.602182 -0.023099 0.0277876
+-0.589922 -0.00864246 0.0260332
+-0.585849 -0.00117241 0.0197947
+-0.591054 -0.00269036 0.0107439
+-0.604142 -0.0127897 0.00130585
+-0.621606 -0.0287643 -0.00599051
+-0.638766 -0.0463338 -0.00919004
+-0.651026 -0.0607903 -0.00743572
+-0.655099 -0.0682604 -0.00119729
+-0.649894 -0.0667424 0.00785362
+-0.636806 -0.0566431 0.0172917
+-0.602109 -0.0649244 0.0137277
+-0.585268 -0.0468996 0.0159417
+-0.573748 -0.0319249 0.013613
+-0.570637 -0.0240127 0.00736587
+-0.576768 -0.0252831 -0.00112614
+-0.590497 -0.0353957 -0.00958712
+-0.608147 -0.0516408 -0.0157504
+-0.624988 -0.0696656 -0.0179643
+-0.636508 -0.0846402 -0.0156357
+-0.639619 -0.0925524 -0.0093885
+-0.633488 -0.0912821 -0.00089661
+-0.619759 -0.0811695 0.00756449
+-0.586729 -0.0868028 0.000611503
+-0.570208 -0.0683915 0.00182674
+-0.559353 -0.0530238 -0.00106639
+-0.557074 -0.0448172 -0.00729292
+-0.563981 -0.0459709 -0.0151842
+-0.578223 -0.0561758 -0.0226258
+-0.595985 -0.0726973 -0.027624
+-0.612506 -0.0911086 -0.0288391
+-0.623361 -0.106476 -0.025946
+-0.62564 -0.114683 -0.0197195
+-0.618733 -0.113529 -0.0118282
+-0.604491 -0.103324 -0.00438641
+-0.572522 -0.10648 -0.0139364
+-0.556305 -0.0877621 -0.0137529
+-0.545997 -0.0721495 -0.0172687
+-0.544361 -0.0638259 -0.0235417
+-0.551836 -0.0650215 -0.0308913
+-0.566417 -0.075416 -0.0373478
+-0.5842 -0.0922243 -0.0411815
+-0.600417 -0.110942 -0.0413651
+-0.610725 -0.126555 -0.0378494
+-0.61236 -0.134879 -0.0315763
+-0.604886 -0.133683 -0.0242268
+-0.590304 -0.123289 -0.0177701
+-0.558724 -0.124168 -0.029132
+-0.54279 -0.105228 -0.0300271
+-0.532898 -0.0895289 -0.0342761
+-0.531699 -0.0812773 -0.0407401
+-0.539513 -0.082684 -0.0476872
+-0.554248 -0.0933722 -0.0532559
+-0.571955 -0.110478 -0.0559542
+-0.587889 -0.129418 -0.0550589
+-0.597781 -0.145117 -0.0508101
+-0.59898 -0.153368 -0.0443461
+-0.591166 -0.151961 -0.037399
+-0.576431 -0.141273 -0.0318302
+-0.544532 -0.140076 -0.0442732
+-0.52886 -0.121005 -0.0462972
+-0.519253 -0.105387 -0.0514119
+-0.518284 -0.097409 -0.0582467
+-0.526213 -0.0992069 -0.0649703
+-0.540916 -0.110299 -0.0697809
+-0.558452 -0.127714 -0.0713899
+-0.574124 -0.146785 -0.0693659
+-0.583732 -0.162402 -0.0642513
+-0.584701 -0.170381 -0.0574163
+-0.576772 -0.168583 -0.0506929
+-0.562069 -0.15749 -0.0458821
+-0.529147 -0.154403 -0.0587542
+-0.513714 -0.135297 -0.0619471
+-0.504258 -0.119944 -0.0680474
+-0.503313 -0.112457 -0.0754205
+-0.511131 -0.114843 -0.0820908
+-0.525618 -0.126462 -0.0862711
+-0.542892 -0.144201 -0.0868411
+-0.558325 -0.163308 -0.0836483
+-0.567781 -0.178661 -0.077548
+-0.568727 -0.186148 -0.0701748
+-0.560909 -0.183762 -0.0635044
+-0.546421 -0.172143 -0.0593243
+-0.511776 -0.167363 -0.0720713
+-0.496557 -0.148321 -0.0764496
+-0.487115 -0.133421 -0.0836052
+-0.485982 -0.126655 -0.0916205
+-0.49346 -0.129836 -0.0983483
+-0.507546 -0.142112 -0.101986
+-0.524466 -0.160194 -0.101558
+-0.539686 -0.179236 -0.0971797
+-0.549128 -0.194136 -0.0900241
+-0.550261 -0.200902 -0.0820087
+-0.542783 -0.197721 -0.075281
+-0.528696 -0.185445 -0.0716436
+-0.4916 -0.179237 -0.0838117
+-0.476567 -0.160352 -0.0893565
+-0.467007 -0.146076 -0.0975537
+-0.465484 -0.140236 -0.106207
+-0.472405 -0.144395 -0.112998
+-0.485915 -0.157441 -0.116106
+-0.502394 -0.175876 -0.1147
+-0.517428 -0.194762 -0.109155
+-0.526987 -0.209037 -0.100957
+-0.52851 -0.214878 -0.0923044
+-0.521589 -0.210718 -0.0855138
+-0.508079 -0.197673 -0.0824053
+-0.467719 -0.190425 -0.0935807
+-0.452856 -0.171765 -0.100236
+-0.443081 -0.158224 -0.109372
+-0.441014 -0.153431 -0.118541
+-0.447209 -0.15867 -0.125285
+-0.460005 -0.172537 -0.127799
+-0.475974 -0.191317 -0.125407
+-0.490838 -0.209977 -0.118752
+-0.500612 -0.223517 -0.109616
+-0.502679 -0.22831 -0.100447
+-0.496485 -0.223071 -0.0937025
+-0.483688 -0.209204 -0.0911893
+-0.439153 -0.2014 -0.100885
+-0.424464 -0.183001 -0.108572
+-0.414438 -0.170215 -0.118491
+-0.411763 -0.16647 -0.127985
+-0.417155 -0.172769 -0.134509
+-0.42917 -0.187423 -0.136316
+-0.444587 -0.206507 -0.13292
+-0.459276 -0.224907 -0.125234
+-0.469302 -0.237692 -0.115314
+-0.471977 -0.241437 -0.105821
+-0.466585 -0.235138 -0.0992966
+-0.454571 -0.220484 -0.0974901
+-0.404485 -0.212923 -0.105033
+-0.390053 -0.194746 -0.113677
+-0.379965 -0.182543 -0.124244
+-0.376924 -0.179583 -0.133903
+-0.381746 -0.186659 -0.140067
+-0.393139 -0.201876 -0.141082
+-0.408049 -0.221155 -0.136678
+-0.422481 -0.239332 -0.128034
+-0.432569 -0.251536 -0.117467
+-0.43561 -0.254496 -0.107807
+-0.430788 -0.24742 -0.101644
+-0.419395 -0.232203 -0.100629
+-0.367678 -0.223715 -0.10646
+-0.353333 -0.206194 -0.116492
+-0.343181 -0.194887 -0.127957
+-0.339944 -0.192823 -0.137784
+-0.344487 -0.200556 -0.143339
+-0.355595 -0.216014 -0.143135
+-0.37029 -0.235054 -0.137225
+-0.384636 -0.252575 -0.127193
+-0.394787 -0.263882 -0.115727
+-0.398025 -0.265946 -0.105901
+-0.393481 -0.258213 -0.100345
+-0.382374 -0.242755 -0.10055
+-0.333584 -0.232701 -0.106154
+-0.319379 -0.215948 -0.117598
+-0.309172 -0.205638 -0.129922
+-0.305695 -0.204534 -0.139821
+-0.309882 -0.212931 -0.144645
+-0.320611 -0.22858 -0.1431
+-0.335006 -0.247287 -0.135601
+-0.34921 -0.264039 -0.124156
+-0.359418 -0.274349 -0.111833
+-0.362895 -0.275454 -0.101933
+-0.358708 -0.267057 -0.0971092
+-0.347979 -0.251408 -0.0986542
+-0.301914 -0.239793 -0.104308
+-0.287909 -0.223922 -0.117167
+-0.27765 -0.214696 -0.130281
+-0.273884 -0.214588 -0.140137
+-0.277623 -0.223626 -0.144092
+-0.287862 -0.23939 -0.141087
+-0.30186 -0.257654 -0.131928
+-0.315865 -0.273525 -0.119068
+-0.326125 -0.282751 -0.105954
+-0.32989 -0.282859 -0.096099
+-0.326152 -0.273821 -0.092144
+-0.315912 -0.258058 -0.0951485
+-0.272372 -0.244928 -0.101099
+-0.258629 -0.230045 -0.115349
+-0.248323 -0.221964 -0.129163
+-0.244213 -0.22285 -0.138839
+-0.247401 -0.232465 -0.141786
+-0.257034 -0.248234 -0.137212
+-0.270529 -0.265931 -0.126344
+-0.284272 -0.280814 -0.112094
+-0.294578 -0.288895 -0.0982802
+-0.298688 -0.288009 -0.0886037
+-0.295499 -0.278393 -0.0856574
+-0.285867 -0.262625 -0.090231
+-0.244639 -0.248061 -0.0966726
+-0.231227 -0.23426 -0.112263
+-0.220882 -0.227347 -0.12667
+-0.216376 -0.229175 -0.136033
+-0.218916 -0.239253 -0.137843
+-0.227822 -0.254882 -0.131616
+-0.240708 -0.271874 -0.119019
+-0.25412 -0.285675 -0.103429
+-0.264465 -0.292588 -0.0890225
+-0.268971 -0.29076 -0.0796594
+-0.26643 -0.280681 -0.0778491
+-0.257524 -0.265052 -0.0840762
+-0.218373 -0.249151 -0.0911315
+-0.205362 -0.236505 -0.107989
+-0.194998 -0.230742 -0.122881
+-0.19006 -0.233407 -0.131815
+-0.19187 -0.243784 -0.132399
+-0.199942 -0.259095 -0.124475
+-0.212115 -0.275235 -0.110167
+-0.225127 -0.287881 -0.0933092
+-0.23549 -0.293644 -0.078418
+-0.240429 -0.29098 -0.0694836
+-0.238619 -0.280602 -0.0689001
+-0.230546 -0.265292 -0.0768237
+-0.193208 -0.24813 -0.0845336
+-0.18067 -0.23669 -0.102571
+-0.170325 -0.232022 -0.117853
+-0.164943 -0.235376 -0.126285
+-0.165969 -0.245855 -0.125608
+-0.173126 -0.26065 -0.116003
+-0.184497 -0.275796 -0.100044
+-0.197035 -0.287236 -0.0820068
+-0.20738 -0.291905 -0.0667249
+-0.212762 -0.28855 -0.0582927
+-0.211736 -0.278071 -0.0589698
+-0.204579 -0.263277 -0.0685747
+-0.168765 -0.244875 -0.0769151
+-0.156772 -0.234671 -0.0960319
+-0.146497 -0.231021 -0.111636
+-0.140695 -0.234904 -0.119546
+-0.14092 -0.245279 -0.117642
+-0.14711 -0.259366 -0.106436
+-0.157609 -0.27339 -0.0889286
+-0.169602 -0.283594 -0.0698119
+-0.179876 -0.287244 -0.0542079
+-0.185678 -0.283362 -0.0462979
+-0.185454 -0.272987 -0.0482013
+-0.179263 -0.2589 -0.0594079
+-0.144668 -0.239208 -0.0683198
+-0.133286 -0.230252 -0.0884112
+-0.12315 -0.227541 -0.104294
+-0.116976 -0.231801 -0.111714
+-0.116419 -0.24189 -0.108681
+-0.121626 -0.255106 -0.0960088
+-0.131204 -0.267907 -0.077093
+-0.142586 -0.276863 -0.0570016
+-0.152721 -0.279575 -0.0411185
+-0.158895 -0.275315 -0.0336991
+-0.159453 -0.265225 -0.0367317
+-0.154246 -0.252009 -0.0494038
+-0.120562 -0.23091 -0.0588265
+-0.109848 -0.2232 -0.0797834
+-0.0999221 -0.221357 -0.0959217
+-0.0934439 -0.225875 -0.102917
+-0.092149 -0.235542 -0.0988953
+-0.0963846 -0.247769 -0.0849337
+-0.105016 -0.259279 -0.0647736
+-0.11573 -0.266989 -0.0438167
+-0.125655 -0.268832 -0.0276785
+-0.132134 -0.264314 -0.0206831
+-0.133428 -0.254647 -0.0247048
+-0.129193 -0.24242 -0.0386664
+-0.0961127 -0.219746 -0.0485577
+-0.086109 -0.213269 -0.0702691
+-0.0764602 -0.21224 -0.086646
+-0.0697519 -0.216933 -0.0933001
+-0.0677814 -0.226092 -0.0884486
+-0.0710768 -0.237263 -0.0733914
+-0.078755 -0.247452 -0.0521629
+-0.0887588 -0.253929 -0.0304515
+-0.0984075 -0.254958 -0.0140747
+-0.105116 -0.250265 -0.00742045
+-0.107086 -0.241105 -0.0122719
+-0.103791 -0.229935 -0.0273293
+-0.0710058 -0.205492 -0.0376727
+-0.0617384 -0.200222 -0.060028
+-0.0524233 -0.199964 -0.0766269
+-0.0455564 -0.204787 -0.0830217
+-0.0429777 -0.213399 -0.077499
+-0.0453783 -0.223492 -0.0615386
+-0.0521148 -0.232361 -0.0394171
+-0.0613821 -0.237631 -0.0170618
+-0.0706973 -0.237889 -0.000463076
+-0.0775642 -0.233066 0.00593185
+-0.0801429 -0.224454 0.000409216
+-0.0777424 -0.214361 -0.0155513
+-0.0449377 -0.18794 -0.0263548
+-0.0364171 -0.183842 -0.0492462
+-0.0274784 -0.184323 -0.0660459
+-0.0205167 -0.189255 -0.0722524
+-0.0173973 -0.197316 -0.0662026
+-0.0189563 -0.206346 -0.0495177
+-0.0247758 -0.213926 -0.0266683
+-0.0332965 -0.218024 -0.00377683
+-0.0422353 -0.217543 0.0130227
+-0.0491969 -0.212611 0.0192291
+-0.0523161 -0.20455 0.0131794
+-0.0507572 -0.19552 -0.00350548
+-0.0183694 -0.167603 -0.0151419
+-0.0104903 -0.164537 -0.0384214
+-0.0016793 -0.165475 -0.0552692
+0.00570291 -0.170164 -0.0611709
+0.00967795 -0.177348 -0.054545
+0.00918111 -0.185101 -0.0371673
+0.00434504 -0.191348 -0.0136935
+-0.00353402 -0.194413 0.00958602
+-0.012345 -0.193475 0.0264337
+-0.0197272 -0.188787 0.0323354
+-0.0237023 -0.181603 0.0257096
+-0.0232054 -0.173849 0.00833176
+0.00391898 -0.146112 -0.00499075
+0.0124871 -0.142863 -0.0280003
+0.0223089 -0.143039 -0.0443057
+0.0307525 -0.146594 -0.0495378
+0.0355554 -0.152576 -0.0422947
+0.0354308 -0.159381 -0.0245175
+0.0304119 -0.165187 -0.000969179
+0.0218437 -0.168436 0.0220405
+0.0120219 -0.16826 0.0383457
+0.00357835 -0.164705 0.0435778
+-0.00122455 -0.158723 0.0363349
+-0.00109985 -0.151918 0.0185574
+0.0188967 -0.124002 0.00400353
+0.0280857 -0.12051 -0.0187293
+0.0387323 -0.119766 -0.0344917
+0.0479839 -0.121967 -0.0390602
+0.0533615 -0.126525 -0.0312108
+0.0534242 -0.132218 -0.0130464
+0.0481551 -0.137521 0.0105658
+0.0389662 -0.141013 0.0332987
+0.0283195 -0.141757 0.0490612
+0.0190678 -0.139556 0.0536297
+0.0136903 -0.134998 0.04578
+0.0136277 -0.129305 0.0276156
+0.0280318 -0.100936 0.0121677
+0.0377499 -0.097213 -0.0103071
+0.0489734 -0.0955708 -0.025594
+0.0586951 -0.0964495 -0.0295975
+0.06431 -0.0996137 -0.0212446
+0.0643134 -0.104216 -0.00277356
+0.0587046 -0.109022 0.0208667
+0.0489866 -0.112745 0.0433413
+0.0377629 -0.114387 0.0586283
+0.0280413 -0.113509 0.0626318
+0.0224265 -0.110344 0.054279
+0.0224229 -0.105743 0.0358077
+0.032479 -0.0766255 0.0197155
+0.0426536 -0.0727421 -0.00252887
+0.0542583 -0.0703936 -0.0174346
+0.0641834 -0.0702093 -0.0210076
+0.0697697 -0.0722385 -0.0122907
+0.0695203 -0.0759374 0.0063806
+0.0635021 -0.080315 0.030003
+0.0533275 -0.0841983 0.0522475
+0.0417229 -0.0865468 0.0671531
+0.0317977 -0.0867311 0.0707262
+0.0262115 -0.084702 0.0620094
+0.0264608 -0.081003 0.043338
+0.0332706 -0.0510313 0.0267497
+0.0438639 -0.0470867 0.00471279
+0.0557509 -0.0442987 -0.00989148
+0.0657464 -0.0434141 -0.01315
+0.0711722 -0.0446701 -0.00418924
+0.0705743 -0.0477301 0.0145894
+0.064113 -0.0517742 0.0381545
+0.0535196 -0.0557188 0.0601915
+0.0416327 -0.0585068 0.0747958
+0.0316371 -0.0593914 0.0780542
+0.0262114 -0.0581354 0.0690935
+0.0268092 -0.0550754 0.0503149
+0.0314999 -0.0242996 0.0333413
+0.0425015 -0.0203954 0.011498
+0.0546471 -0.0174424 -0.00285921
+0.0646819 -0.0162315 -0.00588316
+0.0699174 -0.0170874 0.00323669
+0.0689509 -0.0197806 0.0220558
+0.0620408 -0.0235896 0.0455327
+0.0510391 -0.0274937 0.0673761
+0.0388937 -0.0304469 0.0817333
+0.0288587 -0.0316577 0.0847571
+0.0236232 -0.0308018 0.0756376
+0.02459 -0.0281085 0.0568181
+0.0283695 0.00337271 0.0395796
+0.0397811 0.00713864 0.0179232
+0.052196 0.00999294 0.00377799
+0.0622873 0.0111708 0.000934266
+0.0673513 0.0103565 0.010154
+0.066031 0.00776838 0.0289668
+0.0586801 0.00409982 0.0523317
+0.0472685 0.000333875 0.0739881
+0.0348535 -0.00252043 0.0881333
+0.0247621 -0.00369826 0.090977
+0.0196983 -0.00288396 0.0817573
+0.0210186 -0.000295833 0.0629445
+0.025176 0.0318084 0.0455902
+0.0369994 0.0353399 0.0241158
+0.0496948 0.037835 0.0101528
+0.0598605 0.0386251 0.00744287
+0.0647726 0.0374986 0.0167119
+0.063115 0.0347573 0.0354758
+0.0553316 0.0311356 0.0587077
+0.0435082 0.0276041 0.0801821
+0.0308128 0.025109 0.094145
+0.0206471 0.0243188 0.0968551
+0.015735 0.0254454 0.0875861
+0.0173928 0.0281867 0.0688219
+0.0233026 0.0608525 0.0515417
+0.0355276 0.0640517 0.0302408
+0.0484836 0.0659227 0.0164202
+0.058699 0.0659641 0.0137837
+0.0634368 0.0641648 0.0230372
+0.0614275 0.0610071 0.0417012
+0.0532092 0.0573368 0.064775
+0.0409843 0.0541376 0.086076
+0.0280285 0.0522667 0.0998964
+0.0178129 0.0522252 0.102533
+0.0130751 0.0540245 0.0932799
+0.0150845 0.0571823 0.0746156
+0.0242191 0.0903121 0.0576465
+0.036812 0.0930847 0.0365007
+0.0499455 0.0940758 0.0227567
+0.0601004 0.0930199 0.0200978
+0.0645559 0.0901999 0.0292361
+0.0621183 0.0863715 0.0477228
+0.0534403 0.0825604 0.0706047
+0.0408475 0.0797879 0.0917505
+0.0277141 0.0787968 0.105494
+0.017559 0.0798527 0.108153
+0.0131035 0.0826726 0.0990152
+0.0155412 0.0865011 0.0805283
+0.0294415 0.119843 0.0641334
+0.042339 0.122119 0.0431124
+0.0554872 0.122039 0.029347
+0.0653627 0.119625 0.0265259
+0.0693195 0.115524 0.035405
+0.0662974 0.110835 0.053605
+0.057106 0.106815 0.0762495
+0.0442085 0.104539 0.0972707
+0.0310604 0.104619 0.111036
+0.0211849 0.107033 0.113857
+0.0172281 0.111134 0.104978
+0.0202502 0.115823 0.0867778
+0.040393 0.148882 0.0711767
+0.0535152 0.150643 0.0502453
+0.0664689 0.149446 0.0363481
+0.0757833 0.145612 0.0332092
+0.0789625 0.140168 0.0416692
+0.0751549 0.134574 0.0594613
+0.0653804 0.130328 0.0818184
+0.0522583 0.128567 0.10275
+0.0393046 0.129764 0.116647
+0.0299901 0.133598 0.119786
+0.0268108 0.139041 0.111326
+0.0306186 0.144636 0.0935337
+0.058254 0.176788 0.0788264
+0.0715359 0.17808 0.0579615
+0.0841295 0.175893 0.0438555
+0.0926604 0.170813 0.0402879
+0.0948426 0.164201 0.0482146
+0.0900915 0.157829 0.0655116
+0.0796802 0.153404 0.0875441
+0.0663983 0.152112 0.108409
+0.0538048 0.154299 0.122515
+0.0452739 0.159379 0.126083
+0.0430916 0.165991 0.118156
+0.0478427 0.172363 0.100859
+0.0832897 0.202479 0.0865497
+0.0968046 0.203471 0.0658188
+0.10925 0.200756 0.0516732
+0.117291 0.19506 0.0479033
+0.118774 0.187911 0.0555193
+0.1133 0.181224 0.0724804
+0.102337 0.17679 0.0942419
+0.0888223 0.175798 0.114973
+0.0763768 0.178513 0.129119
+0.0683355 0.184209 0.132888
+0.066853 0.191358 0.125272
+0.0723266 0.198045 0.108311
+0.111592 0.225702 0.094256
+0.124382 0.227637 0.0731352
+0.136217 0.225474 0.058383
+0.143924 0.219793 0.0539515
+0.145439 0.212117 0.0610289
+0.140357 0.204502 0.0777185
+0.130038 0.198989 0.0995482
+0.117248 0.197054 0.120669
+0.105414 0.199217 0.135421
+0.0977067 0.204898 0.139853
+0.096191 0.212574 0.132776
+0.101274 0.220189 0.116086
+0.139899 0.246351 0.100317
+0.151872 0.249245 0.0788298
+0.162952 0.24763 0.0634362
+0.170173 0.241939 0.0582607
+0.171598 0.233696 0.06469
+0.166845 0.225111 0.0810016
+0.157189 0.218483 0.102825
+0.145217 0.215589 0.124312
+0.134136 0.217204 0.139706
+0.126916 0.222895 0.144881
+0.125491 0.231138 0.138452
+0.130243 0.239723 0.12214
+0.168332 0.264284 0.104999
+0.17939 0.268156 0.0831781
+0.189558 0.267104 0.06712
+0.196112 0.261408 0.0611271
+0.197296 0.252595 0.0668058
+0.192793 0.243027 0.082634
+0.183809 0.235267 0.104371
+0.172752 0.231395 0.126192
+0.162584 0.232447 0.14225
+0.15603 0.238143 0.148243
+0.154846 0.246956 0.142564
+0.159349 0.256524 0.126736
+0.196985 0.27933 0.108524
+0.20703 0.284203 0.0864156
+0.21612 0.283757 0.0696965
+0.22182 0.278109 0.0628461
+0.222602 0.268774 0.0676998
+0.218256 0.258253 0.082957
+0.209948 0.249365 0.10453
+0.199903 0.244491 0.126638
+0.190812 0.244938 0.143357
+0.185113 0.250586 0.150207
+0.184331 0.259921 0.145354
+0.188676 0.270442 0.130096
+0.225885 0.291314 0.111063
+0.234831 0.297215 0.088735
+0.242698 0.297447 0.0714024
+0.247378 0.291948 0.0637095
+0.247615 0.282192 0.0677182
+0.243347 0.270792 0.0823537
+0.235718 0.260804 0.103695
+0.226771 0.254903 0.126023
+0.218904 0.254671 0.143355
+0.214225 0.26017 0.151048
+0.213988 0.269927 0.14704
+0.218256 0.281326 0.132404
+0.254989 0.300102 0.112767
+0.262773 0.307054 0.0903064
+0.269318 0.308052 0.0724591
+0.272869 0.30283 0.0640075
+0.272476 0.292788 0.0672162
+0.268244 0.280615 0.0812254
+0.261306 0.269573 0.102282
+0.253522 0.262622 0.124743
+0.246977 0.261623 0.14259
+0.243425 0.266845 0.151042
+0.243818 0.276887 0.147833
+0.248051 0.289061 0.133824
+0.28421 0.305627 0.113809
+0.290797 0.313641 0.0913187
+0.295985 0.315483 0.0730962
+0.298383 0.310661 0.0640243
+0.29735 0.300465 0.0665335
+0.293161 0.287629 0.0799518
+0.286941 0.275591 0.100683
+0.280354 0.267577 0.123174
+0.275166 0.265734 0.141396
+0.272768 0.270557 0.150468
+0.273801 0.280752 0.147959
+0.277989 0.293589 0.13454
+0.313475 0.307883 0.114421
+0.318858 0.316952 0.0920116
+0.322713 0.319683 0.0735713
+0.324007 0.315344 0.0640417
+0.322394 0.305099 0.0659762
+0.318305 0.291692 0.0788563
+0.312837 0.278716 0.099231
+0.307454 0.269647 0.121641
+0.303599 0.266916 0.140081
+0.302305 0.271255 0.149611
+0.303918 0.2815 0.147676
+0.308007 0.294907 0.134796
+0.342763 0.306888 0.1149
+0.346958 0.316982 0.0926759
+0.349546 0.320606 0.0741682
+0.349833 0.316789 0.0643369
+0.347743 0.306554 0.0658157
+0.343836 0.292643 0.0782085
+0.339158 0.278784 0.098195
+0.334964 0.26869 0.12042
+0.332376 0.265066 0.138927
+0.332089 0.268883 0.148759
+0.334179 0.279118 0.14728
+0.338086 0.293029 0.134887
+0.37211 0.302644 0.115577
+0.375147 0.313716 0.0936317
+0.376553 0.318204 0.0751858
+0.375951 0.314905 0.0651826
+0.373503 0.304704 0.0663018
+0.369864 0.290334 0.0782441
+0.36601 0.275645 0.0978092
+0.362973 0.264573 0.119755
+0.361568 0.260085 0.138201
+0.36217 0.263384 0.148204
+0.364618 0.273585 0.147085
+0.368256 0.287955 0.135142
+0.401591 0.29513 0.116792
+0.403509 0.307119 0.0952056
+0.403824 0.312418 0.0769249
+0.402451 0.309608 0.0668489
+0.399758 0.29944 0.0676775
+0.396467 0.284641 0.0791886
+0.39346 0.269175 0.0982979
+0.391542 0.257186 0.119885
+0.391227 0.251887 0.138165
+0.3926 0.254697 0.148242
+0.395293 0.264864 0.147413
+0.398584 0.279664 0.135902
+0.4313 0.284298 0.118883
+0.432144 0.297135 0.0977193
+0.431456 0.30318 0.0796819
+0.429422 0.300813 0.069604
+0.426584 0.290668 0.0701858
+0.423705 0.275463 0.0812715
+0.421555 0.259273 0.0998906
+0.420711 0.246436 0.121054
+0.421399 0.240391 0.139092
+0.423434 0.242758 0.14917
+0.426271 0.252903 0.148588
+0.42915 0.268108 0.137502
+0.461334 0.270082 0.122174
+0.461153 0.283696 0.101484
+0.459549 0.290416 0.0837466
+0.45695 0.288443 0.0737138
+0.454053 0.278305 0.0740734
+0.451634 0.262718 0.0847298
+0.450341 0.245859 0.102827
+0.450522 0.232245 0.123517
+0.452126 0.225524 0.141254
+0.454726 0.227498 0.151287
+0.457623 0.237636 0.150927
+0.460041 0.253223 0.140271
+0.492356 0.252236 0.126823
+0.491128 0.266576 0.106667
+0.488478 0.273965 0.089325
+0.485119 0.272422 0.0794436
+0.481949 0.262362 0.0796705
+0.479818 0.24648 0.089945
+0.479297 0.229031 0.107514
+0.480525 0.214691 0.12767
+0.483174 0.207302 0.145012
+0.486534 0.208844 0.154894
+0.489704 0.218904 0.154667
+0.491835 0.234787 0.144392
+0.521543 0.231095 0.132003
+0.520195 0.244515 0.11123
+0.516758 0.251411 0.0938229
+0.512152 0.249935 0.0844465
+0.507612 0.240483 0.0856128
+0.504353 0.225588 0.0970092
+0.50325 0.209241 0.115582
+0.504597 0.195822 0.136355
+0.508034 0.188926 0.153762
+0.51264 0.190401 0.163138
+0.517181 0.199853 0.161972
+0.520439 0.214748 0.150576
+0.544263 0.206483 0.138534
+0.542767 0.219031 0.117234
+0.538439 0.225741 0.0999534
+0.53244 0.224817 0.0913242
+0.526376 0.216504 0.0936581
+0.521873 0.203031 0.10633
+0.520137 0.188008 0.125944
+0.521633 0.175461 0.147244
+0.52596 0.16875 0.164525
+0.53196 0.169675 0.173154
+0.538023 0.177987 0.17082
+0.542526 0.19146 0.158149
+0.560679 0.17893 0.146238
+0.559121 0.190633 0.124466
+0.554123 0.197399 0.10739
+0.547024 0.197414 0.0995847
+0.539727 0.190676 0.103142
+0.534187 0.178989 0.117109
+0.531888 0.165485 0.137744
+0.533447 0.153782 0.159516
+0.538445 0.147016 0.176592
+0.545543 0.147001 0.184397
+0.552841 0.153739 0.18084
+0.558381 0.165426 0.166873
+0.571371 0.149615 0.155164
+0.569897 0.160393 0.132914
+0.564618 0.167152 0.11592
+0.556948 0.168082 0.108735
+0.548942 0.162933 0.113286
+0.542746 0.153085 0.128352
+0.540019 0.141177 0.149896
+0.541493 0.130399 0.172147
+0.546772 0.12364 0.189141
+0.554442 0.12271 0.196325
+0.562448 0.127859 0.191775
+0.568644 0.137707 0.176709
+0.577665 0.119532 0.165033
+0.576383 0.129227 0.142278
+0.571107 0.135686 0.125166
+0.563252 0.13718 0.118283
+0.554923 0.133307 0.123473
+0.54835 0.125106 0.139344
+0.545296 0.114774 0.161645
+0.546578 0.10508 0.1844
+0.551853 0.0986205 0.201512
+0.559708 0.0971269 0.208395
+0.568038 0.100999 0.203206
+0.574611 0.1092 0.187334
+0.581025 0.0891571 0.175211
+0.579983 0.0976036 0.151952
+0.574842 0.103429 0.134574
+0.566979 0.105072 0.127734
+0.558502 0.102093 0.133263
+0.551682 0.0952897 0.149682
+0.548347 0.0864852 0.17259
+0.54939 0.0780387 0.195849
+0.554531 0.0722134 0.213227
+0.562394 0.0705702 0.220067
+0.57087 0.0735493 0.214538
+0.57769 0.0803526 0.198119
+0.582726 0.058737 0.184975
+0.581938 0.0657978 0.161249
+0.576975 0.0707 0.143538
+0.569169 0.0721301 0.136586
+0.560609 0.0697049 0.142258
+0.553591 0.0640741 0.159033
+0.549994 0.0567467 0.182416
+0.550782 0.0496858 0.206143
+0.555745 0.0447836 0.223854
+0.563552 0.0433536 0.230806
+0.572111 0.0457788 0.225134
+0.579129 0.0514095 0.208359
+0.583884 0.0285068 0.193638
+0.583352 0.0340744 0.169511
+0.578586 0.0378155 0.151465
+0.570862 0.0387275 0.144337
+0.56225 0.0365659 0.150035
+0.555058 0.0319102 0.167034
+0.551212 0.0260076 0.190778
+0.551744 0.02044 0.214905
+0.556511 0.0166989 0.232951
+0.564235 0.0157869 0.24008
+0.572846 0.0179484 0.234381
+0.580039 0.0226042 0.217383
+0.585534 -0.00125286 0.200553
+0.58526 0.00273961 0.176111
+0.580709 0.00511628 0.157781
+0.573099 0.00524023 0.150474
+0.564471 0.0030784 0.156148
+0.557136 -0.00079006 0.173283
+0.55306 -0.00532845 0.197286
+0.553334 -0.00932091 0.221728
+0.557886 -0.0116976 0.240059
+0.565495 -0.0118215 0.247366
+0.574123 -0.00965974 0.241692
+0.581458 -0.00579125 0.224557
+0.588659 -0.0302208 0.205095
+0.588649 -0.0278661 0.18044
+0.584354 -0.0270369 0.161914
+0.576924 -0.0279555 0.15448
+0.568349 -0.0303757 0.160131
+0.560929 -0.033649 0.177353
+0.55665 -0.0368984 0.20153
+0.556659 -0.0392531 0.226185
+0.560955 -0.0400823 0.244711
+0.568385 -0.0391637 0.252145
+0.576959 -0.0367435 0.246494
+0.58438 -0.0334702 0.229272
+0.594186 -0.0580638 0.206645
+0.594462 -0.057392 0.181889
+0.590506 -0.0582785 0.16329
+0.583377 -0.0604858 0.155832
+0.574986 -0.0634223 0.161513
+0.567581 -0.0663013 0.178812
+0.563146 -0.0683513 0.203092
+0.56287 -0.0690232 0.227849
+0.566826 -0.0681367 0.246448
+0.573955 -0.0659294 0.253906
+0.582346 -0.0629929 0.248224
+0.589751 -0.0601139 0.230926
+0.602987 -0.0844904 0.204584
+0.603592 -0.0855257 0.179845
+0.600121 -0.0882671 0.161331
+0.593504 -0.09198 0.154
+0.585513 -0.0956694 0.159818
+0.578291 -0.0983468 0.177226
+0.573771 -0.0992949 0.201559
+0.573166 -0.0982596 0.226297
+0.576637 -0.0955182 0.244812
+0.583255 -0.0918054 0.252142
+0.591245 -0.0881159 0.246324
+0.598467 -0.0854385 0.228917
+0.615913 -0.109335 0.198305
+0.616915 -0.112066 0.173709
+0.614146 -0.116728 0.155462
+0.608348 -0.122072 0.148453
+0.601074 -0.126666 0.154559
+0.594273 -0.129279 0.172146
+0.589768 -0.12921 0.1965
+0.588765 -0.126479 0.221095
+0.591534 -0.121817 0.239343
+0.597333 -0.116473 0.246352
+0.604607 -0.111879 0.240245
+0.611408 -0.109267 0.222659
+0.634301 -0.132967 0.187358
+0.635729 -0.137278 0.163011
+0.633773 -0.143659 0.145183
+0.628956 -0.150402 0.138653
+0.622569 -0.155698 0.145169
+0.616323 -0.15813 0.162986
+0.611893 -0.157045 0.18733
+0.610464 -0.152734 0.211677
+0.61242 -0.146352 0.229504
+0.617237 -0.13961 0.236034
+0.623625 -0.134313 0.229518
+0.62987 -0.131882 0.211701
+0.653561 -0.151508 0.171985
+0.654019 -0.156659 0.147764
+0.652149 -0.164227 0.130397
+0.648452 -0.172185 0.12454
+0.643918 -0.1784 0.13176
+0.639762 -0.181206 0.150123
+0.637098 -0.179853 0.174709
+0.63664 -0.174702 0.198931
+0.63851 -0.167134 0.216297
+0.642207 -0.159176 0.222155
+0.646741 -0.152961 0.214934
+0.650897 -0.150154 0.196571
+0.668805 -0.16303 0.154037
+0.668449 -0.168983 0.129998
+0.667256 -0.177596 0.113064
+0.665546 -0.186561 0.107772
+0.663778 -0.193478 0.115541
+0.662424 -0.196491 0.134288
+0.661848 -0.194794 0.15899
+0.662204 -0.188841 0.183029
+0.663397 -0.180228 0.199962
+0.665107 -0.171263 0.205254
+0.666875 -0.164347 0.197486
+0.668229 -0.161333 0.178739
+0.681851 -0.169787 0.134467
+0.680666 -0.176355 0.110616
+0.680252 -0.185479 0.0939147
+0.68072 -0.194716 0.0888383
+0.681945 -0.201591 0.0967473
+0.683599 -0.20426 0.115522
+0.685238 -0.20201 0.140132
+0.686423 -0.195443 0.163984
+0.686837 -0.186319 0.180685
+0.686369 -0.177082 0.185761
+0.685144 -0.170207 0.177852
+0.683491 -0.167537 0.159077
+0.695057 -0.172506 0.11364
+0.692788 -0.179556 0.0900061
+0.69257 -0.188825 0.0733813
+0.694461 -0.19783 0.0682199
+0.697954 -0.204159 0.0759052
+0.702113 -0.206114 0.0943778
+0.705824 -0.203173 0.118688
+0.708092 -0.196123 0.142322
+0.70831 -0.186853 0.158947
+0.706419 -0.177848 0.164109
+0.702927 -0.17152 0.156423
+0.698767 -0.169564 0.137951
+0.709156 -0.171341 0.0915411
+0.705535 -0.178872 0.0682262
+0.704843 -0.188294 0.0517005
+0.707267 -0.197083 0.0463919
+0.712157 -0.202885 0.053723
+0.718203 -0.204143 0.0717294
+0.723785 -0.200522 0.095586
+0.727406 -0.192991 0.118901
+0.728097 -0.183568 0.135427
+0.725673 -0.174779 0.140735
+0.720783 -0.168978 0.133404
+0.714738 -0.167719 0.115398
+0.724088 -0.1671 0.068316
+0.718937 -0.175152 0.0454676
+0.71731 -0.184871 0.0291813
+0.719644 -0.193653 0.0238201
+0.725313 -0.199144 0.030821
+0.732799 -0.199874 0.0483078
+0.740094 -0.195646 0.0715954
+0.745246 -0.187594 0.0944436
+0.746873 -0.177875 0.11073
+0.744539 -0.169093 0.116091
+0.738869 -0.163602 0.10909
+0.731384 -0.162872 0.0916034
+0.739899 -0.160999 0.0442658
+0.733122 -0.1696 0.0220508
+0.730267 -0.179745 0.00619881
+0.732099 -0.188716 0.000957295
+0.738128 -0.194109 0.00773107
+0.746737 -0.194479 0.0247046
+0.75562 -0.189727 0.0473301
+0.762397 -0.181126 0.0695451
+0.765252 -0.170981 0.0853973
+0.76342 -0.16201 0.0906386
+0.757391 -0.156617 0.0838648
+0.748782 -0.156247 0.0668913
+0.756841 -0.154371 0.0197416
+0.748397 -0.163521 -0.00166807
+0.744116 -0.174166 -0.016857
+0.745144 -0.183454 -0.0217557
+0.751206 -0.188895 -0.015051
+0.760679 -0.189032 0.00146008
+0.771023 -0.183828 0.0233538
+0.779467 -0.174677 0.0447634
+0.783748 -0.164032 0.0599523
+0.78272 -0.154744 0.064851
+0.776658 -0.149303 0.0581465
+0.767185 -0.149166 0.0416353
+0.77529 -0.148594 -0.00489083
+0.765173 -0.158263 -0.0253249
+0.759313 -0.16941 -0.0395997
+0.759282 -0.179049 -0.0438901
+0.765088 -0.184596 -0.0370466
+0.775175 -0.184566 -0.0209029
+0.78684 -0.178965 0.000215307
+0.796957 -0.169296 0.0206493
+0.802817 -0.158149 0.0349242
+0.802848 -0.148511 0.0392144
+0.797042 -0.142963 0.0323709
+0.786956 -0.142994 0.0162275
+0.795654 -0.145108 -0.0292318
+0.783883 -0.155227 -0.048531
+0.776328 -0.166787 -0.0616324
+0.775012 -0.17669 -0.0650257
+0.780289 -0.182282 -0.0578015
+0.790745 -0.182066 -0.0418954
+0.803577 -0.176098 -0.0215697
+0.815348 -0.165979 -0.00227064
+0.822903 -0.15442 0.0108308
+0.824219 -0.144517 0.0142241
+0.818942 -0.138924 0.00700003
+0.808487 -0.139141 -0.00890607
+0.818284 -0.145404 -0.0527826
+0.804909 -0.155863 -0.0708147
+0.79559 -0.167635 -0.0825151
+0.792821 -0.177568 -0.0847484
+0.797346 -0.182999 -0.0769165
+0.807952 -0.182473 -0.0611178
+0.821797 -0.176131 -0.0415855
+0.835171 -0.165672 -0.0235534
+0.844491 -0.153899 -0.011853
+0.847259 -0.143967 -0.00961961
+0.842734 -0.138536 -0.0174517
+0.832129 -0.139062 -0.0332504
+0.843394 -0.150925 -0.0748814
+0.828508 -0.16158 -0.0915643
+0.817451 -0.173277 -0.101727
+0.813185 -0.182883 -0.102646
+0.816853 -0.187823 -0.0940753
+0.827472 -0.186773 -0.0783118
+0.842197 -0.180016 -0.0595789
+0.857083 -0.169362 -0.042896
+0.86814 -0.157664 -0.0327338
+0.872406 -0.148059 -0.0318146
+0.868738 -0.143119 -0.0403851
+0.858119 -0.144168 -0.0561485
+0.871096 -0.162891 -0.0947434
+0.854841 -0.173597 -0.11006
+0.842203 -0.184923 -0.118683
+0.836568 -0.193835 -0.118303
+0.839446 -0.197943 -0.109021
+0.850065 -0.196149 -0.0933251
+0.86558 -0.188931 -0.07542
+0.881835 -0.178225 -0.0601038
+0.894472 -0.166899 -0.0514802
+0.900108 -0.157988 -0.0518602
+0.89723 -0.153879 -0.0611419
+0.886611 -0.155674 -0.0768383
+0.901254 -0.181959 -0.111466
+0.883852 -0.192648 -0.125477
+0.870006 -0.203508 -0.132738
+0.863427 -0.211629 -0.131302
+0.865876 -0.214836 -0.121554
+0.876699 -0.212269 -0.106106
+0.892995 -0.204616 -0.0890969
+0.910397 -0.193927 -0.0750851
+0.924243 -0.183067 -0.0678245
+0.930822 -0.174946 -0.0692606
+0.928372 -0.171739 -0.0790085
+0.91755 -0.174306 -0.0944567
+0.931407 -0.205431 -0.123884
+0.913549 -0.216449 -0.137041
+0.899105 -0.227104 -0.143382
+0.891945 -0.234541 -0.141207
+0.893987 -0.236767 -0.131098
+0.904684 -0.233185 -0.115765
+0.921169 -0.224756 -0.0993152
+0.939027 -0.213738 -0.0861576
+0.953471 -0.203083 -0.0798168
+0.960631 -0.195646 -0.0819923
+0.958589 -0.193421 -0.0921009
+0.947892 -0.197002 -0.107434
+0.95883 -0.230083 -0.131644
+0.940551 -0.241401 -0.14394
+0.925562 -0.25178 -0.149413
+0.917877 -0.258438 -0.146596
+0.919557 -0.259591 -0.136245
+0.930152 -0.254931 -0.121132
+0.946822 -0.245705 -0.105307
+0.9651 -0.234386 -0.0930112
+0.98009 -0.224007 -0.0875385
+0.987774 -0.217349 -0.0903553
+0.986094 -0.216196 -0.100707
+0.9755 -0.220857 -0.11582
+0.983711 -0.255579 -0.135252
+0.965056 -0.267184 -0.146685
+0.949599 -0.277263 -0.151359
+0.941481 -0.283116 -0.148019
+0.942877 -0.283174 -0.137562
+0.953413 -0.277421 -0.122788
+0.970267 -0.267399 -0.107658
+0.988922 -0.255794 -0.0962241
+1.00438 -0.245715 -0.0915508
+1.0125 -0.239862 -0.0948902
+1.0111 -0.239804 -0.105348
+1.00056 -0.245557 -0.120121
+1.00627 -0.281579 -0.135266
+0.98729 -0.293473 -0.145838
+0.971456 -0.303279 -0.149775
+0.963011 -0.30837 -0.146025
+0.964216 -0.307381 -0.13559
+0.97475 -0.300578 -0.121268
+0.991788 -0.289783 -0.106895
+1.01077 -0.277889 -0.0963238
+1.0266 -0.268083 -0.0923862
+1.03505 -0.262992 -0.096137
+1.03384 -0.263981 -0.106572
+1.02331 -0.270784 -0.120894
+1.02675 -0.307778 -0.13229
+1.00751 -0.319974 -0.141995
+0.991389 -0.32957 -0.145242
+0.982724 -0.333995 -0.141164
+0.983831 -0.332064 -0.130851
+0.994414 -0.324293 -0.117067
+1.01164 -0.312765 -0.103507
+1.03088 -0.300569 -0.0938027
+1.047 -0.290973 -0.0905547
+1.05567 -0.286548 -0.0946338
+1.05456 -0.288479 -0.104947
+1.04398 -0.29625 -0.11873
+1.04544 -0.333917 -0.126943
+1.02597 -0.346433 -0.135769
+1.00966 -0.355902 -0.138348
+1.00087 -0.359787 -0.133988
+1.00197 -0.357047 -0.123859
+1.01264 -0.348416 -0.110673
+1.03005 -0.336207 -0.0979643
+1.04951 -0.323691 -0.0891379
+1.06582 -0.314221 -0.0865589
+1.07461 -0.310336 -0.0909185
+1.07352 -0.313076 -0.101048
+1.06284 -0.321707 -0.114234
+1.06259 -0.359775 -0.119836
+1.04296 -0.372629 -0.127768
+1.02654 -0.382061 -0.129677
+1.01772 -0.385542 -0.125052
+1.01887 -0.382139 -0.115131
+1.02967 -0.372766 -0.102574
+1.04724 -0.359932 -0.0907436
+1.06687 -0.347077 -0.0828113
+1.0833 -0.337646 -0.080902
+1.09212 -0.334165 -0.0855274
+1.09097 -0.337568 -0.0954481
+1.08016 -0.346941 -0.108006
+1.07848 -0.385153 -0.111568
+1.05874 -0.398362 -0.118588
+1.04228 -0.407843 -0.11981
+1.03351 -0.411055 -0.114907
+1.03477 -0.407138 -0.105193
+1.04574 -0.397141 -0.0932709
+1.06347 -0.383743 -0.082335
+1.08321 -0.370534 -0.0753155
+1.09967 -0.361053 -0.0740935
+1.10844 -0.357841 -0.0789961
+1.10718 -0.361759 -0.08871
+1.09621 -0.371755 -0.100632
+1.09336 -0.409859 -0.102725
+1.07356 -0.423435 -0.108812
+1.05714 -0.433048 -0.109319
+1.04849 -0.436124 -0.104109
+1.04994 -0.431837 -0.0945784
+1.0611 -0.421336 -0.0832814
+1.07897 -0.407436 -0.0732443
+1.09877 -0.39386 -0.0671571
+1.1152 -0.384246 -0.0666502
+1.12384 -0.381171 -0.0718601
+1.12239 -0.385457 -0.0813904
+1.11123 -0.395958 -0.0926876
+1.10746 -0.433693 -0.0938735
+1.08765 -0.447647 -0.0990109
+1.07135 -0.457476 -0.0987684
+1.06293 -0.460546 -0.0932108
+1.06463 -0.456035 -0.0838274
+1.07601 -0.445151 -0.0731325
+1.09402 -0.430811 -0.0639915
+1.11383 -0.416857 -0.0588542
+1.13013 -0.407028 -0.0590966
+1.13855 -0.403958 -0.0646542
+1.13685 -0.408469 -0.0740375
+1.12547 -0.419353 -0.0847326
+1.12101 -0.456448 -0.0855689
+1.10125 -0.470791 -0.0897423
+1.08517 -0.48092 -0.0887173
+1.07706 -0.484121 -0.0827683
+1.07911 -0.479537 -0.0734893
+1.09076 -0.468395 -0.0633668
+1.1089 -0.453682 -0.0551128
+1.12865 -0.439339 -0.0509394
+1.14474 -0.42921 -0.0519644
+1.15284 -0.426008 -0.0579136
+1.15079 -0.430593 -0.0671924
+1.13914 -0.441734 -0.077315
+1.13419 -0.477898 -0.0783413
+1.11455 -0.492643 -0.0815434
+1.0988 -0.503167 -0.079711
+1.09115 -0.506648 -0.0733347
+1.09365 -0.502155 -0.0641234
+1.10564 -0.490892 -0.0545451
+1.1239 -0.475875 -0.0471663
+1.14354 -0.46113 -0.0439643
+1.1593 -0.450606 -0.0457967
+1.16695 -0.447125 -0.0521731
+1.16444 -0.451618 -0.0613842
+1.15245 -0.462881 -0.0709625
+1.14721 -0.497809 -0.0726847
+1.12775 -0.512975 -0.0749192
+1.11246 -0.523999 -0.0722764
+1.10543 -0.527928 -0.0654642
+1.10854 -0.523708 -0.056308
+1.12096 -0.512472 -0.0472611
+1.13936 -0.497228 -0.0407478
+1.15881 -0.482062 -0.0385133
+1.1741 -0.471038 -0.0411562
+1.18114 -0.46711 -0.0479684
+1.17803 -0.471329 -0.0571244
+1.16561 -0.482566 -0.0661713
+1.16139 -0.517409 -0.0688333
+1.14204 -0.532821 -0.07015
+1.12695 -0.543931 -0.0668108
+1.12015 -0.547761 -0.0597099
+1.12347 -0.543285 -0.0507503
+1.13601 -0.531703 -0.0423328
+1.15442 -0.516117 -0.0367126
+1.17377 -0.500705 -0.0353958
+1.18886 -0.489595 -0.0387351
+1.19566 -0.485765 -0.0458359
+1.19234 -0.490241 -0.0547955
+1.1798 -0.501823 -0.0632131
+
+Normals
+-0.000 -0.976 0.217
+-0.078 -0.996 0.045
+-0.206 -0.944 -0.257
+-0.412 -0.197 -0.890
+-0.206 0.747 -0.632
+-0.078 0.921 -0.381
+0.000 0.976 -0.217
+0.078 0.996 -0.045
+0.206 0.944 0.257
+0.412 0.197 0.890
+0.206 -0.747 0.632
+0.078 -0.921 0.381
+-0.000 -0.976 0.217
+-0.078 -0.996 0.045
+-0.206 -0.944 -0.257
+-0.412 -0.197 -0.890
+-0.206 0.747 -0.632
+-0.078 0.921 -0.381
+0.000 0.976 -0.217
+0.078 0.996 -0.045
+0.206 0.944 0.257
+0.412 0.197 0.890
+0.206 -0.747 0.632
+0.078 -0.921 0.381
+-0.000 -0.976 0.217
+-0.078 -0.996 0.045
+-0.206 -0.944 -0.257
+-0.412 -0.197 -0.890
+-0.206 0.747 -0.632
+-0.078 0.921 -0.381
+0.000 0.976 -0.217
+0.078 0.996 -0.045
+0.206 0.944 0.257
+0.412 0.197 0.890
+0.206 -0.747 0.632
+0.078 -0.921 0.381
+-0.000 -0.976 0.217
+-0.078 -0.996 0.045
+-0.206 -0.944 -0.257
+-0.412 -0.197 -0.890
+-0.206 0.747 -0.632
+-0.078 0.921 -0.381
+0.000 0.976 -0.217
+0.078 0.996 -0.045
+0.206 0.944 0.257
+0.412 0.197 0.890
+0.206 -0.747 0.632
+0.078 -0.921 0.381
+-0.000 -0.976 0.217
+-0.078 -0.996 0.045
+-0.206 -0.944 -0.257
+-0.412 -0.197 -0.890
+-0.206 0.747 -0.632
+-0.078 0.921 -0.381
+0.000 0.976 -0.217
+0.078 0.996 -0.045
+0.206 0.944 0.257
+0.412 0.197 0.890
+0.206 -0.747 0.632
+0.078 -0.921 0.381
+-0.000 -0.976 0.217
+-0.078 -0.996 0.045
+-0.206 -0.944 -0.257
+-0.412 -0.197 -0.890
+-0.206 0.747 -0.632
+-0.078 0.921 -0.381
+0.000 0.976 -0.217
+0.078 0.996 -0.045
+0.206 0.944 0.257
+0.412 0.197 0.890
+0.206 -0.747 0.632
+0.078 -0.921 0.381
+-0.000 -0.976 0.217
+-0.078 -0.996 0.045
+-0.206 -0.944 -0.257
+-0.412 -0.197 -0.890
+-0.206 0.747 -0.632
+-0.078 0.921 -0.381
+0.000 0.976 -0.217
+0.078 0.996 -0.045
+0.206 0.944 0.257
+0.412 0.197 0.890
+0.206 -0.747 0.632
+0.078 -0.921 0.381
+-0.000 -0.976 0.217
+-0.078 -0.996 0.045
+-0.206 -0.944 -0.257
+-0.412 -0.197 -0.890
+-0.206 0.747 -0.632
+-0.078 0.921 -0.381
+0.000 0.976 -0.217
+0.078 0.996 -0.045
+0.206 0.944 0.257
+0.412 0.197 0.890
+0.206 -0.747 0.632
+0.078 -0.921 0.381
+-0.000 -0.976 0.217
+-0.078 -0.996 0.045
+-0.206 -0.944 -0.257
+-0.412 -0.197 -0.890
+-0.206 0.747 -0.632
+-0.078 0.921 -0.381
+0.000 0.976 -0.217
+0.078 0.996 -0.045
+0.206 0.944 0.257
+0.412 0.197 0.890
+0.206 -0.747 0.632
+0.078 -0.921 0.381
+0.000 0.976 -0.217
+-0.078 0.921 -0.381
+-0.206 0.747 -0.632
+-0.412 -0.197 -0.890
+-0.206 -0.944 -0.257
+-0.078 -0.996 0.045
+-0.000 -0.976 0.217
+0.078 -0.921 0.381
+0.206 -0.747 0.632
+0.412 0.197 0.890
+0.206 0.944 0.257
+0.078 0.996 -0.045
+0.000 0.976 -0.217
+-0.078 0.921 -0.381
+-0.206 0.747 -0.632
+-0.412 -0.197 -0.890
+-0.206 -0.944 -0.257
+-0.078 -0.996 0.045
+-0.000 -0.976 0.217
+0.078 -0.921 0.381
+0.206 -0.747 0.632
+0.412 0.197 0.890
+0.206 0.944 0.257
+0.078 0.996 -0.045
+0.000 0.976 -0.217
+-0.078 0.921 -0.381
+-0.206 0.747 -0.632
+-0.412 -0.197 -0.890
+-0.206 -0.944 -0.257
+-0.078 -0.996 0.045
+-0.000 -0.976 0.217
+0.078 -0.921 0.381
+0.206 -0.747 0.632
+0.412 0.197 0.890
+0.206 0.944 0.257
+0.078 0.996 -0.045
+0.000 0.976 -0.217
+-0.078 0.921 -0.381
+-0.206 0.747 -0.632
+-0.412 -0.197 -0.890
+-0.206 -0.944 -0.257
+-0.078 -0.996 0.045
+-0.000 -0.976 0.217
+0.078 -0.921 0.381
+0.206 -0.747 0.632
+0.412 0.197 0.890
+0.206 0.944 0.257
+0.078 0.996 -0.045
+0.000 0.976 -0.217
+-0.078 0.921 -0.381
+-0.206 0.747 -0.632
+-0.412 -0.197 -0.890
+-0.206 -0.944 -0.257
+-0.078 -0.996 0.045
+-0.000 -0.976 0.217
+0.078 -0.921 0.381
+0.206 -0.747 0.632
+0.412 0.197 0.890
+0.206 0.944 0.257
+0.078 0.996 -0.045
+-0.049 0.980 -0.195
+-0.126 0.925 -0.359
+-0.248 0.750 -0.614
+-0.412 -0.197 -0.890
+-0.164 -0.947 -0.276
+-0.030 -0.999 0.023
+0.049 -0.980 0.195
+0.126 -0.925 0.359
+0.248 -0.750 0.614
+0.412 0.197 0.890
+0.164 0.947 0.276
+0.030 0.999 -0.023
+-0.124 0.979 -0.160
+-0.199 0.924 -0.325
+-0.313 0.749 -0.583
+-0.412 -0.197 -0.890
+-0.099 -0.947 -0.306
+0.044 -0.999 -0.011
+0.124 -0.979 0.160
+0.199 -0.924 0.325
+0.313 -0.749 0.583
+0.412 0.197 0.890
+0.099 0.947 0.306
+-0.044 0.999 0.011
+-0.171 0.976 -0.137
+-0.246 0.921 -0.303
+-0.354 0.746 -0.564
+-0.412 -0.197 -0.890
+-0.058 -0.944 -0.326
+0.090 -0.995 -0.033
+0.171 -0.976 0.137
+0.246 -0.921 0.303
+0.354 -0.746 0.564
+0.412 0.197 0.890
+0.058 0.944 0.326
+-0.090 0.995 0.033
+-0.196 0.973 -0.125
+-0.270 0.918 -0.291
+-0.375 0.744 -0.553
+-0.412 -0.197 -0.890
+-0.036 -0.941 -0.336
+0.114 -0.992 -0.045
+0.196 -0.973 0.125
+0.270 -0.918 0.291
+0.375 -0.744 0.553
+0.412 0.197 0.890
+0.036 0.941 0.336
+-0.114 0.992 0.045
+-0.202 0.972 -0.122
+-0.276 0.917 -0.288
+-0.380 0.743 -0.551
+-0.412 -0.197 -0.890
+-0.031 -0.940 -0.339
+0.120 -0.992 -0.048
+0.202 -0.972 0.122
+0.276 -0.917 0.288
+0.380 -0.743 0.551
+0.412 0.197 0.890
+0.031 0.940 0.339
+-0.120 0.992 0.048
+-0.191 0.973 -0.128
+-0.265 0.918 -0.294
+-0.371 0.744 -0.555
+-0.412 -0.197 -0.890
+-0.041 -0.942 -0.334
+0.109 -0.993 -0.043
+0.191 -0.973 0.128
+0.265 -0.918 0.294
+0.371 -0.744 0.555
+0.412 0.197 0.890
+0.041 0.942 0.334
+-0.109 0.993 0.043
+-0.164 0.976 -0.141
+-0.238 0.922 -0.306
+-0.347 0.747 -0.567
+-0.412 -0.197 -0.890
+-0.064 -0.944 -0.323
+0.083 -0.996 -0.030
+0.164 -0.976 0.141
+0.238 -0.922 0.306
+0.347 -0.747 0.567
+0.412 0.197 0.890
+0.064 0.944 0.323
+-0.083 0.996 0.030
+-0.121 0.979 -0.161
+-0.196 0.925 -0.327
+-0.310 0.750 -0.585
+-0.412 -0.197 -0.890
+-0.101 -0.947 -0.305
+0.041 -0.999 -0.010
+0.121 -0.979 0.161
+0.196 -0.925 0.327
+0.310 -0.750 0.585
+0.412 0.197 0.890
+0.101 0.947 0.305
+-0.041 0.999 0.010
+-0.061 0.980 -0.189
+-0.138 0.925 -0.354
+-0.259 0.750 -0.609
+-0.412 -0.197 -0.890
+-0.153 -0.947 -0.281
+-0.018 -1.000 0.017
+0.061 -0.980 0.189
+0.138 -0.925 0.354
+0.259 -0.750 0.609
+0.412 0.197 0.890
+0.153 0.947 0.281
+0.018 1.000 -0.017
+0.015 0.975 -0.223
+-0.064 0.920 -0.387
+-0.193 0.745 -0.638
+-0.412 -0.197 -0.890
+-0.218 -0.943 -0.252
+-0.092 -0.994 0.051
+-0.015 -0.975 0.223
+0.064 -0.920 0.387
+0.193 -0.745 0.638
+0.412 0.197 0.890
+0.218 0.943 0.252
+0.092 0.994 -0.051
+0.106 0.959 -0.262
+0.026 0.905 -0.425
+-0.114 0.732 -0.672
+-0.412 -0.197 -0.890
+-0.298 -0.929 -0.218
+-0.182 -0.979 0.089
+-0.106 -0.959 0.262
+-0.026 -0.905 0.425
+0.114 -0.732 0.672
+0.412 0.197 0.890
+0.298 0.929 0.218
+0.182 0.979 -0.089
+0.210 0.929 -0.303
+0.128 0.875 -0.466
+-0.024 0.706 -0.708
+-0.412 -0.197 -0.890
+-0.388 -0.904 -0.182
+-0.284 -0.950 0.130
+-0.210 -0.929 0.303
+-0.128 -0.875 0.466
+0.024 -0.706 0.708
+0.412 0.197 0.890
+0.388 0.904 0.182
+0.284 0.950 -0.130
+0.321 0.882 -0.344
+0.237 0.829 -0.506
+0.072 0.666 -0.743
+-0.412 -0.197 -0.890
+-0.484 -0.863 -0.147
+-0.393 -0.904 0.170
+-0.321 -0.882 0.344
+-0.237 -0.829 0.506
+-0.072 -0.666 0.743
+0.412 0.197 0.890
+0.484 0.863 0.147
+0.393 0.904 -0.170
+0.431 0.818 -0.381
+0.346 0.766 -0.542
+0.168 0.610 -0.775
+-0.412 -0.197 -0.890
+-0.579 -0.807 -0.115
+-0.501 -0.840 0.206
+-0.431 -0.818 0.381
+-0.346 -0.766 0.542
+-0.168 -0.610 0.775
+0.412 0.197 0.890
+0.579 0.807 0.115
+0.501 0.840 -0.206
+0.535 0.738 -0.411
+0.447 0.688 -0.572
+0.257 0.541 -0.801
+-0.412 -0.197 -0.890
+-0.669 -0.738 -0.089
+-0.603 -0.762 0.236
+-0.535 -0.738 0.411
+-0.447 -0.688 0.572
+-0.257 -0.541 0.801
+0.412 0.197 0.890
+0.669 0.738 0.089
+0.603 0.762 -0.236
+0.642 0.594 -0.486
+0.547 0.539 -0.641
+0.335 0.398 -0.854
+-0.441 -0.233 -0.867
+-0.776 -0.631 -0.013
+-0.713 -0.627 0.313
+-0.642 -0.594 0.486
+-0.547 -0.539 0.641
+-0.335 -0.398 0.854
+0.441 0.233 0.867
+0.776 0.631 0.013
+0.713 0.627 -0.313
+0.743 0.393 -0.541
+0.641 0.335 -0.690
+0.409 0.206 -0.889
+-0.470 -0.269 -0.841
+-0.879 -0.475 0.048
+-0.819 -0.436 0.373
+-0.743 -0.393 0.541
+-0.641 -0.335 0.690
+-0.409 -0.206 0.889
+0.470 0.269 0.841
+0.879 0.475 -0.048
+0.819 0.436 -0.373
+0.810 0.169 -0.562
+0.701 0.108 -0.705
+0.452 -0.006 -0.892
+-0.499 -0.305 -0.811
+-0.951 -0.299 0.081
+-0.890 -0.224 0.398
+-0.810 -0.169 0.562
+-0.701 -0.108 0.705
+-0.452 0.006 0.892
+0.499 0.305 0.811
+0.951 0.299 -0.081
+0.890 0.224 -0.398
+0.833 -0.024 -0.553
+0.718 -0.088 -0.690
+0.458 -0.192 -0.868
+-0.527 -0.342 -0.778
+-0.985 -0.150 0.090
+-0.917 -0.041 0.396
+-0.833 0.024 0.553
+-0.718 0.088 0.690
+-0.458 0.192 0.868
+0.527 0.342 0.778
+0.985 0.150 -0.090
+0.917 0.041 -0.396
+0.829 -0.158 -0.537
+0.709 -0.226 -0.668
+0.441 -0.325 -0.837
+-0.553 -0.378 -0.742
+-0.994 -0.052 0.094
+-0.918 0.083 0.387
+-0.829 0.158 0.537
+-0.709 0.226 0.668
+-0.441 0.325 0.837
+0.553 0.378 0.742
+0.994 0.052 -0.094
+0.918 -0.083 -0.387
+0.814 -0.232 -0.533
+0.690 -0.306 -0.656
+0.415 -0.407 -0.813
+-0.578 -0.413 -0.703
+-0.994 -0.006 0.110
+-0.908 0.150 0.390
+-0.814 0.232 0.533
+-0.690 0.306 0.656
+-0.415 0.407 0.813
+0.578 0.413 0.703
+0.994 0.006 -0.110
+0.908 -0.150 -0.390
+0.795 -0.259 -0.549
+0.667 -0.338 -0.664
+0.388 -0.447 -0.806
+-0.602 -0.447 -0.662
+-0.990 0.000 0.144
+-0.895 0.169 0.414
+-0.795 0.259 0.549
+-0.667 0.338 0.664
+-0.388 0.447 0.806
+0.602 0.447 0.662
+0.990 -0.000 -0.144
+0.895 -0.169 -0.414
+0.771 -0.246 -0.587
+0.640 -0.332 -0.693
+0.356 -0.453 -0.817
+-0.623 -0.480 -0.618
+-0.980 -0.027 0.199
+-0.875 0.151 0.460
+-0.771 0.246 0.587
+-0.640 0.332 0.693
+-0.356 0.453 0.817
+0.623 0.480 0.618
+0.980 0.027 -0.199
+0.875 -0.151 -0.460
+0.736 -0.201 -0.647
+0.601 -0.294 -0.743
+0.316 -0.429 -0.846
+-0.642 -0.510 -0.572
+-0.958 -0.081 0.274
+-0.844 0.101 0.527
+-0.736 0.201 0.647
+-0.601 0.294 0.743
+-0.316 0.429 0.846
+0.642 0.510 0.572
+0.958 0.081 -0.274
+0.844 -0.101 -0.527
+0.680 -0.129 -0.722
+0.543 -0.228 -0.808
+0.260 -0.381 -0.887
+-0.659 -0.539 -0.525
+-0.918 -0.158 0.363
+-0.792 0.025 0.609
+-0.680 0.129 0.722
+-0.543 0.228 0.808
+-0.260 0.381 0.887
+0.659 0.539 0.525
+0.918 0.158 -0.363
+0.792 -0.025 -0.609
+0.598 -0.037 -0.800
+0.460 -0.143 -0.876
+0.182 -0.315 -0.932
+-0.673 -0.565 -0.477
+-0.855 -0.250 0.455
+-0.715 -0.070 0.696
+-0.598 0.037 0.800
+-0.460 0.143 0.876
+-0.182 0.315 0.932
+0.673 0.565 0.477
+0.855 0.250 -0.455
+0.715 0.070 -0.696
+0.491 0.061 -0.869
+0.353 -0.051 -0.934
+0.083 -0.242 -0.967
+-0.685 -0.589 -0.429
+-0.768 -0.348 0.538
+-0.612 -0.171 0.772
+-0.491 -0.061 0.869
+-0.353 0.051 0.934
+-0.083 0.242 0.967
+0.685 0.589 0.429
+0.768 0.348 -0.538
+0.612 0.171 -0.772
+0.369 0.152 -0.917
+0.231 0.034 -0.972
+-0.027 -0.174 -0.984
+-0.694 -0.611 -0.381
+-0.667 -0.437 0.603
+-0.494 -0.265 0.828
+-0.369 -0.152 0.917
+-0.231 -0.034 0.972
+0.027 0.174 0.984
+0.694 0.611 0.381
+0.667 0.437 -0.603
+0.494 0.265 -0.828
+0.262 0.208 -0.942
+0.125 0.085 -0.989
+-0.124 -0.135 -0.983
+-0.701 -0.630 -0.334
+-0.577 -0.495 0.649
+-0.390 -0.323 0.862
+-0.262 -0.208 0.942
+-0.125 -0.085 0.989
+0.124 0.135 0.983
+0.701 0.630 0.334
+0.577 0.495 -0.649
+0.390 0.323 -0.862
+0.164 0.256 -0.953
+0.028 0.129 -0.991
+-0.210 -0.102 -0.972
+-0.703 -0.647 -0.295
+-0.493 -0.545 0.678
+-0.294 -0.374 0.880
+-0.164 -0.256 0.953
+-0.028 -0.129 0.991
+0.210 0.102 0.972
+0.703 0.647 0.295
+0.493 0.545 -0.678
+0.294 0.374 -0.880
+0.051 0.310 -0.949
+-0.083 0.179 -0.980
+-0.307 -0.064 -0.949
+-0.703 -0.664 -0.255
+-0.396 -0.600 0.695
+-0.183 -0.430 0.884
+-0.051 -0.310 0.949
+0.083 -0.179 0.980
+0.307 0.064 0.949
+0.703 0.664 0.255
+0.396 0.600 -0.695
+0.183 0.430 -0.884
+-0.069 0.362 -0.930
+-0.200 0.227 -0.953
+-0.410 -0.027 -0.911
+-0.702 -0.680 -0.213
+-0.291 -0.653 0.699
+-0.065 -0.484 0.873
+0.069 -0.362 0.930
+0.200 -0.227 0.953
+0.410 0.027 0.911
+0.702 0.680 0.213
+0.291 0.653 -0.699
+0.065 0.484 -0.873
+-0.184 0.404 -0.896
+-0.312 0.265 -0.912
+-0.509 0.002 -0.861
+-0.699 -0.695 -0.170
+-0.191 -0.697 0.691
+0.048 -0.528 0.848
+0.184 -0.404 0.896
+0.312 -0.265 0.912
+0.509 -0.002 0.861
+0.699 0.695 0.170
+0.191 0.697 -0.691
+-0.048 0.528 -0.848
+-0.281 0.429 -0.858
+-0.408 0.287 -0.867
+-0.591 0.017 -0.806
+-0.695 -0.708 -0.126
+-0.104 -0.725 0.680
+0.145 -0.555 0.819
+0.281 -0.429 0.858
+0.408 -0.287 0.867
+0.591 -0.017 0.806
+0.695 0.708 0.126
+0.104 0.725 -0.680
+-0.145 0.555 -0.819
+-0.355 0.433 -0.828
+-0.479 0.290 -0.829
+-0.652 0.015 -0.758
+-0.689 -0.720 -0.081
+-0.037 -0.735 0.677
+0.218 -0.562 0.798
+0.355 -0.433 0.828
+0.479 -0.290 0.829
+0.652 -0.015 0.758
+0.689 0.720 0.081
+0.037 0.735 -0.677
+-0.218 0.562 -0.798
+-0.402 0.416 -0.815
+-0.524 0.271 -0.808
+-0.689 -0.005 -0.724
+-0.682 -0.731 -0.037
+0.007 -0.726 0.688
+0.266 -0.547 0.794
+0.402 -0.416 0.815
+0.524 -0.271 0.808
+0.689 0.005 0.724
+0.682 0.731 0.037
+-0.007 0.726 -0.688
+-0.266 0.547 -0.794
+-0.423 0.376 -0.824
+-0.543 0.229 -0.808
+-0.703 -0.044 -0.710
+-0.673 -0.740 0.008
+0.030 -0.695 0.718
+0.288 -0.509 0.811
+0.423 -0.376 0.824
+0.543 -0.229 0.808
+0.703 0.044 0.710
+0.673 0.740 -0.008
+-0.030 0.695 -0.718
+-0.288 0.509 -0.811
+-0.418 0.310 -0.854
+-0.536 0.163 -0.828
+-0.693 -0.105 -0.713
+-0.663 -0.747 0.053
+0.030 -0.642 0.766
+0.285 -0.446 0.849
+0.418 -0.310 0.854
+0.536 -0.163 0.828
+0.693 0.105 0.713
+0.663 0.747 -0.053
+-0.030 0.642 -0.766
+-0.285 0.446 -0.849
+-0.386 0.218 -0.896
+-0.502 0.072 -0.862
+-0.660 -0.187 -0.728
+-0.651 -0.752 0.097
+0.008 -0.565 0.825
+0.256 -0.356 0.899
+0.386 -0.218 0.896
+0.502 -0.072 0.862
+0.660 0.187 0.728
+0.651 0.752 -0.097
+-0.008 0.565 -0.825
+-0.256 0.356 -0.899
+-0.328 0.102 -0.939
+-0.443 -0.043 -0.896
+-0.604 -0.290 -0.743
+-0.639 -0.756 0.141
+-0.035 -0.467 0.884
+0.202 -0.243 0.949
+0.328 -0.102 0.939
+0.443 0.043 0.896
+0.604 0.290 0.743
+0.639 0.756 -0.141
+0.035 0.467 -0.884
+-0.202 0.243 -0.949
+-0.251 -0.027 -0.968
+-0.365 -0.170 -0.916
+-0.530 -0.403 -0.746
+-0.625 -0.759 0.183
+-0.095 -0.356 0.930
+0.128 -0.117 0.985
+0.251 0.027 0.968
+0.365 0.170 0.916
+0.530 0.403 0.746
+0.625 0.759 -0.183
+0.095 0.356 -0.930
+-0.128 0.117 -0.985
+-0.165 -0.155 -0.974
+-0.278 -0.296 -0.914
+-0.448 -0.514 -0.731
+-0.610 -0.760 0.225
+-0.162 -0.245 0.956
+0.047 0.009 0.999
+0.165 0.155 0.974
+0.278 0.296 0.914
+0.448 0.514 0.731
+0.610 0.760 -0.225
+0.162 0.245 -0.956
+-0.047 -0.009 -0.999
+-0.108 -0.250 -0.962
+-0.219 -0.389 -0.895
+-0.391 -0.596 -0.701
+-0.595 -0.759 0.264
+-0.204 -0.163 0.965
+-0.006 0.102 0.995
+0.108 0.250 0.962
+0.219 0.389 0.895
+0.391 0.596 0.701
+0.595 0.759 -0.264
+0.204 0.163 -0.965
+0.006 -0.102 -0.995
+-0.079 -0.345 -0.935
+-0.189 -0.479 -0.857
+-0.363 -0.669 -0.648
+-0.589 -0.741 0.323
+-0.226 -0.072 0.972
+-0.033 0.198 0.980
+0.079 0.345 0.935
+0.189 0.479 0.857
+0.363 0.669 0.648
+0.589 0.741 -0.323
+0.226 0.072 -0.972
+0.033 -0.198 -0.980
+-0.043 -0.443 -0.895
+-0.152 -0.571 -0.807
+-0.327 -0.743 -0.583
+-0.580 -0.719 0.384
+-0.252 0.025 0.967
+-0.067 0.300 0.952
+0.043 0.443 0.895
+0.152 0.571 0.807
+0.327 0.743 0.583
+0.580 0.719 -0.384
+0.252 -0.025 -0.967
+0.067 -0.300 -0.952
+0.002 -0.543 -0.840
+-0.106 -0.664 -0.740
+-0.282 -0.816 -0.504
+-0.568 -0.692 0.446
+-0.285 0.124 0.950
+-0.109 0.402 0.909
+-0.002 0.543 0.840
+0.106 0.664 0.740
+0.282 0.816 0.504
+0.568 0.692 -0.446
+0.285 -0.124 -0.950
+0.109 -0.402 -0.909
+0.056 -0.639 -0.768
+-0.049 -0.752 -0.657
+-0.228 -0.883 -0.410
+-0.552 -0.660 0.509
+-0.325 0.223 0.919
+-0.159 0.502 0.850
+-0.056 0.639 0.768
+0.049 0.752 0.657
+0.228 0.883 0.410
+0.552 0.660 -0.509
+0.325 -0.223 -0.919
+0.159 -0.502 -0.850
+0.120 -0.724 -0.679
+0.017 -0.829 -0.559
+-0.163 -0.939 -0.303
+-0.533 -0.624 0.571
+-0.370 0.315 0.874
+-0.218 0.593 0.775
+-0.120 0.724 0.679
+-0.017 0.829 0.559
+0.163 0.939 0.303
+0.533 0.624 -0.571
+0.370 -0.315 -0.874
+0.218 -0.593 -0.775
+0.190 -0.793 -0.579
+0.090 -0.889 -0.449
+-0.090 -0.978 -0.185
+-0.510 -0.583 0.632
+-0.420 0.395 0.817
+-0.283 0.668 0.688
+-0.190 0.793 0.579
+-0.090 0.889 0.449
+0.090 0.978 0.185
+0.510 0.583 -0.632
+0.420 -0.395 -0.817
+0.283 -0.668 -0.688
+0.265 -0.841 -0.472
+0.169 -0.928 -0.333
+-0.013 -0.998 -0.064
+-0.485 -0.539 0.689
+-0.472 0.459 0.753
+-0.352 0.724 0.593
+-0.265 0.841 0.472
+-0.169 0.928 0.333
+0.013 0.998 0.064
+0.485 0.539 -0.689
+0.472 -0.459 -0.753
+0.352 -0.724 -0.593
+0.339 -0.867 -0.365
+0.247 -0.944 -0.218
+0.066 -0.996 0.055
+-0.456 -0.491 0.742
+-0.522 0.505 0.687
+-0.419 0.759 0.499
+-0.339 0.867 0.365
+-0.247 0.944 0.218
+-0.066 0.996 -0.055
+0.456 0.491 -0.742
+0.522 -0.505 -0.687
+0.419 -0.759 -0.499
+0.409 -0.873 -0.267
+0.322 -0.940 -0.113
+0.142 -0.976 0.164
+-0.425 -0.441 0.791
+-0.567 0.535 0.626
+-0.482 0.773 0.411
+-0.409 0.873 0.267
+-0.322 0.940 0.113
+-0.142 0.976 -0.164
+0.425 0.441 -0.791
+0.567 -0.535 -0.626
+0.482 -0.773 -0.411
+0.473 -0.863 -0.181
+0.390 -0.921 -0.020
+0.213 -0.942 0.260
+-0.392 -0.390 0.833
+-0.605 0.552 0.573
+-0.538 0.773 0.335
+-0.473 0.863 0.181
+-0.390 0.921 0.020
+-0.213 0.942 -0.260
+0.392 0.390 -0.833
+0.605 -0.552 -0.573
+0.538 -0.773 -0.335
+0.528 -0.842 -0.110
+0.450 -0.891 0.057
+0.278 -0.898 0.340
+-0.358 -0.338 0.870
+-0.636 0.561 0.530
+-0.586 0.763 0.272
+-0.528 0.842 0.110
+-0.450 0.891 -0.057
+-0.278 0.898 -0.340
+0.358 0.338 -0.870
+0.636 -0.561 -0.530
+0.586 -0.763 -0.272
+0.574 -0.817 -0.053
+0.503 -0.856 0.118
+0.335 -0.851 0.405
+-0.324 -0.287 0.901
+-0.660 0.564 0.497
+-0.625 0.748 0.222
+-0.574 0.817 0.053
+-0.503 0.856 -0.118
+-0.335 0.851 -0.405
+0.324 0.287 -0.901
+0.660 -0.564 -0.497
+0.625 -0.748 -0.222
+0.613 -0.790 -0.010
+0.547 -0.821 0.166
+0.386 -0.803 0.455
+-0.291 -0.237 0.927
+-0.676 0.566 0.472
+-0.657 0.731 0.185
+-0.613 0.790 0.010
+-0.547 0.821 -0.166
+-0.386 0.803 -0.455
+0.291 0.237 -0.927
+0.676 -0.566 -0.472
+0.657 -0.731 -0.185
+0.691 -0.722 0.044
+0.629 -0.745 0.222
+0.469 -0.720 0.512
+-0.258 -0.189 0.948
+-0.727 0.531 0.436
+-0.727 0.673 0.136
+-0.691 0.722 -0.044
+-0.629 0.745 -0.222
+-0.469 0.720 -0.512
+0.258 0.189 -0.948
+0.727 -0.531 -0.436
+0.727 -0.673 -0.136
+0.805 -0.580 0.122
+0.739 -0.604 0.298
+0.560 -0.594 0.578
+-0.275 -0.184 0.944
+-0.835 0.410 0.366
+-0.843 0.535 0.058
+-0.805 0.580 -0.122
+-0.739 0.604 -0.298
+-0.560 0.594 -0.578
+0.275 0.184 -0.944
+0.835 -0.410 -0.366
+0.843 -0.535 -0.058
+0.890 -0.411 0.200
+0.818 -0.437 0.373
+0.624 -0.445 0.642
+-0.293 -0.178 0.939
+-0.917 0.267 0.297
+-0.929 0.370 -0.018
+-0.890 0.411 -0.200
+-0.818 0.437 -0.373
+-0.624 0.445 -0.642
+0.293 0.178 -0.939
+0.917 -0.267 -0.297
+0.929 -0.370 0.018
+0.933 -0.246 0.264
+0.857 -0.274 0.436
+0.652 -0.299 0.696
+-0.311 -0.173 0.935
+-0.963 0.126 0.238
+-0.974 0.209 -0.083
+-0.933 0.246 -0.264
+-0.857 0.274 -0.436
+-0.652 0.299 -0.696
+0.311 0.173 -0.935
+0.963 -0.126 -0.238
+0.974 -0.209 0.083
+0.943 -0.112 0.313
+0.864 -0.142 0.483
+0.653 -0.181 0.736
+-0.328 -0.167 0.930
+-0.981 0.013 0.194
+-0.988 0.079 -0.131
+-0.943 0.112 -0.313
+-0.864 0.142 -0.483
+-0.653 0.181 -0.736
+0.328 0.167 -0.930
+0.981 -0.013 -0.194
+0.988 -0.079 0.131
+0.938 -0.023 0.347
+0.855 -0.053 0.515
+0.639 -0.101 0.762
+-0.346 -0.162 0.924
+-0.985 -0.061 0.162
+-0.986 -0.008 -0.166
+-0.938 0.023 -0.347
+-0.855 0.053 -0.515
+-0.639 0.101 -0.762
+0.346 0.162 -0.924
+0.985 0.061 -0.162
+0.986 0.008 0.166
+0.929 0.022 0.371
+0.843 -0.008 0.538
+0.623 -0.059 0.780
+-0.363 -0.156 0.919
+-0.986 -0.097 0.138
+-0.980 -0.051 -0.190
+-0.929 -0.022 -0.371
+-0.843 0.008 -0.538
+-0.623 0.059 -0.780
+0.363 0.156 -0.919
+0.986 0.097 -0.138
+0.980 0.051 0.190
+0.922 0.022 0.388
+0.833 -0.007 0.553
+0.608 -0.056 0.792
+-0.380 -0.151 0.913
+-0.988 -0.094 0.121
+-0.977 -0.050 -0.208
+-0.922 -0.022 -0.388
+-0.833 0.007 -0.553
+-0.608 0.056 -0.792
+0.380 0.151 -0.913
+0.988 0.094 -0.121
+0.977 0.050 0.208
+0.917 -0.020 0.399
+0.825 -0.047 0.563
+0.595 -0.090 0.798
+-0.397 -0.145 0.906
+-0.993 -0.055 0.108
+-0.975 -0.007 -0.220
+-0.917 0.020 -0.399
+-0.825 0.047 -0.563
+-0.595 0.090 -0.798
+0.397 0.145 -0.906
+0.993 0.055 -0.108
+0.975 0.007 0.220
+0.909 -0.107 0.402
+0.815 -0.131 0.565
+0.580 -0.162 0.798
+-0.414 -0.139 0.899
+-0.995 0.023 0.101
+-0.971 0.079 -0.225
+-0.909 0.107 -0.402
+-0.815 0.131 -0.565
+-0.580 0.162 -0.798
+0.414 0.139 -0.899
+0.995 -0.023 -0.101
+0.971 -0.079 0.225
+0.888 -0.236 0.394
+0.791 -0.257 0.556
+0.554 -0.271 0.787
+-0.431 -0.133 0.892
+-0.985 0.137 0.105
+-0.954 0.206 -0.218
+-0.888 0.236 -0.394
+-0.791 0.257 -0.556
+-0.554 0.271 -0.787
+0.431 0.133 -0.892
+0.985 -0.137 -0.105
+0.954 -0.206 0.218
+0.841 -0.396 0.368
+0.741 -0.413 0.529
+0.505 -0.407 0.762
+-0.448 -0.128 0.885
+-0.952 0.279 0.124
+-0.911 0.365 -0.194
+-0.841 0.396 -0.368
+-0.741 0.413 -0.529
+-0.505 0.407 -0.762
+0.448 0.128 -0.885
+0.952 -0.279 -0.124
+0.911 -0.365 0.194
+0.760 -0.564 0.324
+0.658 -0.577 0.484
+0.426 -0.549 0.719
+-0.464 -0.122 0.877
+-0.890 0.428 0.159
+-0.834 0.531 -0.152
+-0.760 0.564 -0.324
+-0.658 0.577 -0.484
+-0.426 0.549 -0.719
+0.464 0.122 -0.877
+0.890 -0.428 -0.159
+0.834 -0.531 0.152
+0.651 -0.711 0.265
+0.549 -0.720 0.425
+0.324 -0.674 0.664
+-0.480 -0.116 0.869
+-0.804 0.558 0.205
+-0.730 0.676 -0.096
+-0.651 0.711 -0.265
+-0.549 0.720 -0.425
+-0.324 0.674 -0.664
+0.480 0.116 -0.869
+0.804 -0.558 -0.205
+0.730 -0.676 0.096
+0.579 -0.781 0.234
+0.475 -0.788 0.392
+0.253 -0.731 0.633
+-0.496 -0.110 0.861
+-0.750 0.621 0.228
+-0.662 0.746 -0.067
+-0.579 0.781 -0.234
+-0.475 0.788 -0.392
+-0.253 0.731 -0.633
+0.496 0.110 -0.861
+0.750 -0.621 -0.228
+0.662 -0.746 0.067
+0.561 -0.812 0.161
+0.462 -0.826 0.323
+0.251 -0.779 0.575
+-0.468 -0.151 0.871
+-0.720 0.628 0.296
+-0.639 0.769 0.007
+-0.561 0.812 -0.161
+-0.462 0.826 -0.323
+-0.251 0.779 -0.575
+0.468 0.151 -0.871
+0.720 -0.628 -0.296
+0.639 -0.769 -0.007
+0.526 -0.847 0.076
+0.433 -0.868 0.241
+0.236 -0.830 0.505
+-0.438 -0.193 0.878
+-0.674 0.637 0.373
+-0.599 0.796 0.091
+-0.526 0.847 -0.076
+-0.433 0.868 -0.241
+-0.236 0.830 -0.505
+0.438 0.193 -0.878
+0.674 -0.637 -0.373
+0.599 -0.796 -0.091
+0.471 -0.882 -0.019
+0.385 -0.911 0.148
+0.204 -0.882 0.425
+-0.406 -0.236 0.883
+-0.611 0.646 0.458
+-0.539 0.822 0.186
+-0.471 0.882 0.019
+-0.385 0.911 -0.148
+-0.204 0.882 -0.425
+0.406 0.236 -0.883
+0.611 -0.646 -0.458
+0.539 -0.822 -0.186
+0.394 -0.911 -0.121
+0.317 -0.947 0.048
+0.155 -0.928 0.338
+-0.372 -0.279 0.885
+-0.527 0.649 0.548
+-0.457 0.842 0.287
+-0.394 0.911 0.121
+-0.317 0.947 -0.048
+-0.155 0.928 -0.338
+0.372 0.279 -0.885
+0.527 -0.649 -0.548
+0.457 -0.842 -0.287
+0.299 -0.928 -0.224
+0.230 -0.972 -0.053
+0.091 -0.964 0.249
+-0.336 -0.322 0.885
+-0.427 0.642 0.637
+-0.357 0.850 0.387
+-0.299 0.928 0.224
+-0.230 0.972 0.053
+-0.091 0.964 -0.249
+0.336 0.322 -0.885
+0.427 -0.642 -0.637
+0.357 -0.850 -0.387
+0.192 -0.928 -0.319
+0.132 -0.980 -0.146
+0.017 -0.986 0.165
+-0.298 -0.365 0.882
+-0.316 0.621 0.717
+-0.245 0.843 0.480
+-0.192 0.928 0.319
+-0.132 0.980 0.146
+-0.017 0.986 -0.165
+0.298 0.365 -0.882
+0.316 -0.621 -0.717
+0.245 -0.843 -0.480
+0.083 -0.913 -0.399
+0.032 -0.974 -0.226
+-0.058 -0.994 0.092
+-0.260 -0.406 0.876
+-0.202 0.588 0.784
+-0.131 0.820 0.557
+-0.083 0.913 0.399
+-0.032 0.974 0.226
+0.058 0.994 -0.092
+0.260 0.406 -0.876
+0.202 -0.588 -0.784
+0.131 -0.820 -0.557
+-0.019 -0.887 -0.462
+-0.061 -0.955 -0.290
+-0.127 -0.991 0.034
+-0.220 -0.447 0.867
+-0.093 0.545 0.834
+-0.023 0.786 0.617
+0.019 0.887 0.462
+0.061 0.955 0.290
+0.127 0.991 -0.034
+0.220 0.447 -0.867
+0.093 -0.545 -0.834
+0.023 -0.786 -0.617
+-0.110 -0.854 -0.508
+-0.142 -0.931 -0.337
+-0.185 -0.983 -0.012
+-0.180 -0.485 0.856
+0.005 0.497 0.868
+0.074 0.747 0.660
+0.110 0.854 0.508
+0.142 0.931 0.337
+0.185 0.983 0.012
+0.180 0.485 -0.856
+-0.005 -0.497 -0.868
+-0.074 -0.747 -0.660
+-0.185 -0.821 -0.540
+-0.209 -0.905 -0.371
+-0.230 -0.972 -0.047
+-0.140 -0.522 0.841
+0.091 0.450 0.888
+0.156 0.707 0.689
+0.185 0.821 0.540
+0.209 0.905 0.371
+0.230 0.972 0.047
+0.140 0.522 -0.841
+-0.091 -0.450 -0.888
+-0.156 -0.707 -0.689
+-0.247 -0.789 -0.562
+-0.262 -0.880 -0.396
+-0.264 -0.962 -0.075
+-0.100 -0.556 0.825
+0.164 0.405 0.899
+0.224 0.670 0.708
+0.247 0.789 0.562
+0.262 0.880 0.396
+0.264 0.962 0.075
+0.100 0.556 -0.825
+-0.164 -0.405 -0.899
+-0.224 -0.670 -0.708
+-0.296 -0.761 -0.577
+-0.302 -0.858 -0.415
+-0.287 -0.953 -0.097
+-0.061 -0.588 0.806
+0.226 0.365 0.903
+0.279 0.636 0.719
+0.296 0.761 0.577
+0.302 0.858 0.415
+0.287 0.953 0.097
+0.061 0.588 -0.806
+-0.226 -0.365 -0.903
+-0.279 -0.636 -0.719
+-0.334 -0.736 -0.588
+-0.332 -0.840 -0.429
+-0.301 -0.947 -0.116
+-0.023 -0.618 0.786
+0.278 0.329 0.902
+0.324 0.606 0.726
+0.334 0.736 0.588
+0.332 0.840 0.429
+0.301 0.947 0.116
+0.023 0.618 -0.786
+-0.278 -0.329 -0.902
+-0.324 -0.606 -0.726
+-0.397 -0.705 -0.587
+-0.387 -0.815 -0.432
+-0.337 -0.933 -0.126
+0.014 -0.644 0.765
+0.351 0.289 0.891
+0.393 0.571 0.721
+0.397 0.705 0.587
+0.387 0.815 0.432
+0.337 0.933 0.126
+-0.014 0.644 -0.765
+-0.351 -0.289 -0.891
+-0.393 -0.571 -0.721
+-0.556 -0.664 -0.499
+-0.545 -0.766 -0.340
+-0.479 -0.877 -0.034
+0.005 -0.603 0.797
+0.484 0.274 0.831
+0.547 0.538 0.641
+0.556 0.664 0.499
+0.545 0.766 0.340
+0.479 0.877 0.034
+-0.005 0.603 -0.797
+-0.484 -0.274 -0.831
+-0.547 -0.538 -0.641
+-0.733 -0.562 -0.383
+-0.721 -0.657 -0.219
+-0.638 -0.766 0.083
+-0.005 -0.559 0.829
+0.633 0.207 0.746
+0.719 0.446 0.533
+0.733 0.562 0.383
+0.721 0.657 0.219
+0.638 0.766 -0.083
+0.005 0.559 -0.829
+-0.633 -0.207 -0.746
+-0.719 -0.446 -0.533
+-0.875 -0.409 -0.258
+-0.862 -0.498 -0.091
+-0.766 -0.609 0.206
+-0.015 -0.511 0.860
+0.751 0.099 0.653
+0.857 0.305 0.416
+0.875 0.409 0.258
+0.862 0.498 0.091
+0.766 0.609 -0.206
+0.015 0.511 -0.860
+-0.751 -0.099 -0.653
+-0.857 -0.305 -0.416
+-0.953 -0.257 -0.160
+-0.941 -0.339 0.010
+-0.838 -0.452 0.305
+-0.025 -0.460 0.888
+0.813 -0.008 0.583
+0.931 0.165 0.325
+0.953 0.257 0.160
+0.941 0.339 -0.010
+0.838 0.452 -0.305
+0.025 0.460 -0.888
+-0.813 0.008 -0.583
+-0.931 -0.165 -0.325
+-0.984 -0.145 -0.103
+-0.973 -0.219 0.071
+-0.870 -0.328 0.367
+-0.036 -0.406 0.913
+0.834 -0.078 0.546
+0.960 0.065 0.274
+0.984 0.145 0.103
+0.973 0.219 -0.071
+0.870 0.328 -0.367
+0.036 0.406 -0.913
+-0.834 0.078 -0.546
+-0.960 -0.065 -0.274
+-0.994 -0.081 -0.080
+-0.984 -0.146 0.099
+-0.884 -0.245 0.399
+-0.046 -0.350 0.936
+0.837 -0.104 0.537
+0.967 0.014 0.255
+0.994 0.081 0.080
+0.984 0.146 -0.099
+0.884 0.245 -0.399
+0.046 0.350 -0.936
+-0.837 0.104 -0.537
+-0.967 -0.014 -0.255
+-0.995 -0.061 -0.078
+-0.988 -0.115 0.104
+-0.890 -0.198 0.410
+-0.057 -0.292 0.955
+0.833 -0.093 0.545
+0.966 0.004 0.257
+0.995 0.061 0.078
+0.988 0.115 -0.104
+0.890 0.198 -0.410
+0.057 0.292 -0.955
+-0.833 0.093 -0.545
+-0.966 -0.004 -0.257
+-0.993 -0.076 -0.087
+-0.988 -0.119 0.098
+-0.894 -0.182 0.410
+-0.067 -0.232 0.970
+0.827 -0.050 0.560
+0.963 0.031 0.269
+0.993 0.076 0.087
+0.988 0.119 -0.098
+0.894 0.182 -0.410
+0.067 0.232 -0.970
+-0.827 0.050 -0.560
+-0.963 -0.031 -0.269
+-0.987 -0.124 -0.099
+-0.984 -0.154 0.088
+-0.894 -0.194 0.405
+-0.077 -0.173 0.982
+0.817 0.021 0.577
+0.955 0.089 0.283
+0.987 0.124 0.099
+0.984 0.154 -0.088
+0.894 0.194 -0.405
+0.077 0.173 -0.982
+-0.817 -0.021 -0.577
+-0.955 -0.089 -0.283
+-0.973 -0.203 -0.108
+-0.972 -0.221 0.081
+-0.886 -0.233 0.401
+-0.087 -0.114 0.990
+0.800 0.119 0.589
+0.939 0.178 0.293
+0.973 0.203 0.108
+0.972 0.221 -0.081
+0.886 0.233 -0.401
+0.087 0.114 -0.990
+-0.800 -0.119 -0.589
+-0.939 -0.178 -0.293
+-0.944 -0.313 -0.108
+-0.945 -0.318 0.082
+-0.865 -0.298 0.403
+-0.095 -0.055 0.994
+0.769 0.243 0.591
+0.909 0.297 0.294
+0.944 0.313 0.108
+0.945 0.318 -0.082
+0.865 0.298 -0.403
+0.095 0.055 -0.994
+-0.769 -0.243 -0.591
+-0.909 -0.297 -0.294
+-0.888 -0.450 -0.092
+-0.892 -0.442 0.098
+-0.821 -0.389 0.418
+-0.104 0.002 0.995
+0.717 0.391 0.577
+0.853 0.442 0.278
+0.888 0.450 0.092
+0.892 0.442 -0.098
+0.821 0.389 -0.418
+0.104 -0.002 -0.995
+-0.717 -0.391 -0.577
+-0.853 -0.442 -0.278
+-0.795 -0.604 -0.055
+-0.802 -0.583 0.134
+-0.744 -0.495 0.449
+-0.112 0.057 0.992
+0.633 0.552 0.544
+0.759 0.604 0.241
+0.795 0.604 0.055
+0.802 0.583 -0.134
+0.744 0.495 -0.449
+0.112 -0.057 -0.992
+-0.633 -0.552 -0.544
+-0.759 -0.604 -0.241
+-0.681 -0.732 -0.001
+-0.691 -0.698 0.186
+-0.649 -0.579 0.493
+-0.119 0.109 0.987
+0.531 0.689 0.494
+0.647 0.740 0.187
+0.681 0.732 0.001
+0.691 0.698 -0.186
+0.649 0.579 -0.493
+0.119 -0.109 -0.987
+-0.531 -0.689 -0.494
+-0.647 -0.740 -0.187
+-0.500 -0.862 0.083
+-0.503 -0.821 0.268
+-0.465 -0.680 0.566
+-0.063 0.132 0.989
+0.402 0.812 0.423
+0.480 0.871 0.106
+0.500 0.862 -0.083
+0.503 0.821 -0.268
+0.465 0.680 -0.566
+0.063 -0.132 -0.989
+-0.402 -0.812 -0.423
+-0.480 -0.871 -0.106
+-0.212 -0.966 0.151
+-0.209 -0.919 0.335
+-0.185 -0.759 0.624
+-0.004 0.155 0.988
+0.181 0.914 0.364
+0.207 0.978 0.039
+0.212 0.966 -0.151
+0.209 0.919 -0.335
+0.185 0.759 -0.624
+0.004 -0.155 -0.988
+-0.181 -0.914 -0.364
+-0.207 -0.978 -0.039
+0.103 -0.980 0.172
+0.112 -0.928 0.355
+0.118 -0.759 0.640
+0.057 0.179 0.982
+-0.061 0.938 0.342
+-0.090 0.996 0.016
+-0.103 0.980 -0.172
+-0.112 0.928 -0.355
+-0.118 0.759 -0.640
+-0.057 -0.179 -0.982
+0.061 -0.938 -0.342
+0.090 -0.996 -0.016
+0.327 -0.932 0.153
+0.344 -0.877 0.334
+0.344 -0.706 0.619
+0.121 0.203 0.972
+-0.223 0.909 0.353
+-0.299 0.954 0.033
+-0.327 0.932 -0.153
+-0.344 0.877 -0.334
+-0.344 0.706 -0.619
+-0.121 -0.203 -0.972
+0.223 -0.909 -0.353
+0.299 -0.954 -0.033
+0.445 -0.887 0.123
+0.472 -0.828 0.301
+0.478 -0.655 0.585
+0.187 0.226 0.956
+-0.292 0.881 0.372
+-0.401 0.914 0.060
+-0.445 0.887 -0.123
+-0.472 0.828 -0.301
+-0.478 0.655 -0.585
+-0.187 -0.226 -0.956
+0.292 -0.881 -0.372
+0.401 -0.914 -0.060
+0.487 -0.868 0.100
+0.526 -0.805 0.275
+0.548 -0.627 0.554
+0.252 0.249 0.935
+-0.295 0.876 0.381
+-0.430 0.899 0.079
+-0.487 0.868 -0.100
+-0.526 0.805 -0.275
+-0.548 0.627 -0.554
+-0.252 -0.249 -0.935
+0.295 -0.876 -0.381
+0.430 -0.899 -0.079
+0.478 -0.873 0.093
+0.529 -0.807 0.263
+0.573 -0.621 0.535
+0.317 0.271 0.909
+-0.255 0.892 0.374
+-0.409 0.909 0.080
+-0.478 0.873 -0.093
+-0.529 0.807 -0.263
+-0.573 0.621 -0.535
+-0.317 -0.271 -0.909
+0.255 -0.892 -0.374
+0.409 -0.909 -0.080
+0.431 -0.896 0.110
+0.495 -0.824 0.274
+0.564 -0.630 0.534
+0.381 0.291 0.878
+-0.183 0.921 0.344
+-0.351 0.934 0.058
+-0.431 0.896 -0.110
+-0.495 0.824 -0.274
+-0.564 0.630 -0.534
+-0.381 -0.291 -0.878
+0.183 -0.921 -0.344
+0.351 -0.934 -0.058
+0.351 -0.923 0.155
+0.428 -0.848 0.312
+0.525 -0.645 0.556
+0.442 0.309 0.842
+-0.083 0.954 0.287
+-0.261 0.965 0.007
+-0.351 0.923 -0.155
+-0.428 0.848 -0.312
+-0.525 0.645 -0.556
+-0.442 -0.309 -0.842
+0.083 -0.954 -0.287
+0.261 -0.965 -0.007
+0.241 -0.942 0.233
+0.331 -0.864 0.381
+0.458 -0.653 0.603
+0.499 0.326 0.803
+0.041 0.979 0.200
+-0.142 0.987 -0.077
+-0.241 0.942 -0.233
+-0.331 0.864 -0.381
+-0.458 0.653 -0.603
+-0.499 -0.326 -0.803
+-0.041 -0.979 -0.200
+0.142 -0.987 0.077
+0.107 -0.934 0.340
+0.209 -0.853 0.478
+0.368 -0.639 0.676
+0.552 0.341 0.761
+0.183 0.979 0.086
+-0.001 0.982 -0.190
+-0.107 0.934 -0.340
+-0.209 0.853 -0.478
+-0.368 0.639 -0.676
+-0.552 -0.341 -0.761
+-0.183 -0.979 -0.086
+0.001 -0.982 0.190
+-0.036 -0.884 0.465
+0.078 -0.802 0.593
+0.269 -0.589 0.762
+0.600 0.353 0.718
+0.332 0.942 -0.044
+0.149 0.935 -0.321
+0.036 0.884 -0.465
+-0.078 0.802 -0.593
+-0.269 0.589 -0.762
+-0.600 -0.353 -0.718
+-0.332 -0.942 0.044
+-0.149 -0.935 0.321
+-0.168 -0.792 0.587
+-0.043 -0.709 0.704
+0.177 -0.504 0.845
+0.644 0.363 0.673
+0.467 0.867 -0.172
+0.286 0.846 -0.450
+0.168 0.792 -0.587
+0.043 0.709 -0.704
+-0.177 0.504 -0.845
+-0.644 -0.363 -0.673
+-0.467 -0.867 0.172
+-0.286 -0.846 0.450
+-0.251 -0.689 0.680
+-0.118 -0.606 0.787
+0.124 -0.411 0.903
+0.683 0.372 0.629
+0.559 0.782 -0.275
+0.376 0.747 -0.549
+0.251 0.689 -0.680
+0.118 0.606 -0.787
+-0.124 0.411 -0.903
+-0.683 -0.372 -0.629
+-0.559 -0.782 0.275
+-0.376 -0.747 0.549
+-0.311 -0.588 0.747
+-0.174 -0.502 0.847
+0.078 -0.312 0.947
+0.696 0.394 0.600
+0.618 0.706 -0.347
+0.437 0.651 -0.620
+0.311 0.588 -0.747
+0.174 0.502 -0.847
+-0.078 0.312 -0.947
+-0.696 -0.394 -0.600
+-0.618 -0.706 0.347
+-0.437 -0.651 0.620
+-0.365 -0.475 0.801
+-0.225 -0.388 0.894
+0.038 -0.203 0.978
+0.708 0.416 0.570
+0.670 0.620 -0.408
+0.492 0.545 -0.679
+0.365 0.475 -0.801
+0.225 0.388 -0.894
+-0.038 0.203 -0.978
+-0.708 -0.416 -0.570
+-0.670 -0.620 0.408
+-0.492 -0.545 0.679
+-0.409 -0.359 0.839
+-0.265 -0.270 0.926
+0.006 -0.092 0.996
+0.720 0.438 0.538
+0.714 0.530 -0.457
+0.537 0.436 -0.722
+0.409 0.359 -0.839
+0.265 0.270 -0.926
+-0.006 0.092 -0.996
+-0.720 -0.438 -0.538
+-0.714 -0.530 0.457
+-0.537 -0.436 0.722
+-0.440 -0.249 0.863
+-0.294 -0.158 0.943
+-0.016 0.014 1.000
+0.730 0.460 0.506
+0.746 0.446 -0.494
+0.570 0.332 -0.751
+0.440 0.249 -0.863
+0.294 0.158 -0.943
+0.016 -0.014 -1.000
+-0.730 -0.460 -0.506
+-0.746 -0.446 0.494
+-0.570 -0.332 0.751
+-0.460 -0.152 0.875
+-0.312 -0.058 0.948
+-0.028 0.109 0.994
+0.739 0.481 0.472
+0.768 0.372 -0.522
+0.591 0.240 -0.770
+0.460 0.152 -0.875
+0.312 0.058 -0.948
+0.028 -0.109 -0.994
+-0.739 -0.481 -0.472
+-0.768 -0.372 0.522
+-0.591 -0.240 0.770
+-0.468 -0.070 0.881
+-0.318 0.026 0.948
+-0.032 0.190 0.981
+0.747 0.501 0.436
+0.779 0.311 -0.545
+0.601 0.163 -0.783
+0.468 0.070 -0.881
+0.318 -0.026 -0.948
+0.032 -0.190 -0.981
+-0.747 -0.501 -0.436
+-0.779 -0.311 0.545
+-0.601 -0.163 0.783
+-0.467 -0.005 0.884
+-0.316 0.094 0.944
+-0.027 0.256 0.966
+0.754 0.521 0.401
+0.781 0.264 -0.566
+0.601 0.103 -0.793
+0.467 0.005 -0.884
+0.316 -0.094 -0.944
+0.027 -0.256 -0.966
+-0.754 -0.521 -0.401
+-0.781 -0.264 0.566
+-0.601 -0.103 0.793
+-0.456 0.043 0.889
+-0.305 0.144 0.942
+-0.015 0.307 0.952
+0.759 0.539 0.364
+0.775 0.233 -0.588
+0.592 0.060 -0.804
+0.456 -0.043 -0.889
+0.305 -0.144 -0.942
+0.015 -0.307 -0.952
+-0.759 -0.539 -0.364
+-0.775 -0.233 0.588
+-0.592 -0.060 0.804
+-0.437 0.074 0.896
+-0.285 0.178 0.942
+0.003 0.342 0.940
+0.764 0.557 0.327
+0.761 0.215 -0.613
+0.574 0.033 -0.818
+0.437 -0.074 -0.896
+0.285 -0.178 -0.942
+-0.003 -0.342 -0.940
+-0.764 -0.557 -0.327
+-0.761 -0.215 0.613
+-0.574 -0.033 0.818
+-0.409 0.088 0.908
+-0.256 0.194 0.947
+0.029 0.363 0.931
+0.766 0.573 0.289
+0.737 0.211 -0.642
+0.546 0.022 -0.837
+0.409 -0.088 -0.908
+0.256 -0.194 -0.947
+-0.029 -0.363 -0.931
+-0.766 -0.573 -0.289
+-0.737 -0.211 0.642
+-0.546 -0.022 0.837
+-0.368 0.084 0.926
+-0.216 0.194 0.957
+0.065 0.367 0.928
+0.768 0.589 0.252
+0.703 0.222 -0.676
+0.507 0.029 -0.862
+0.368 -0.084 -0.926
+0.216 -0.194 -0.957
+-0.065 -0.367 -0.928
+-0.768 -0.589 -0.252
+-0.703 -0.222 0.676
+-0.507 -0.029 0.862
+-0.313 0.061 0.948
+-0.162 0.174 0.971
+0.113 0.355 0.928
+0.768 0.603 0.214
+0.655 0.248 -0.714
+0.452 0.054 -0.890
+0.313 -0.061 -0.948
+0.162 -0.174 -0.971
+-0.113 -0.355 -0.928
+-0.768 -0.603 -0.214
+-0.655 -0.248 0.714
+-0.452 -0.054 0.890
+-0.239 0.018 0.971
+-0.089 0.134 0.987
+0.177 0.323 0.930
+0.767 0.616 0.177
+0.590 0.293 -0.752
+0.379 0.099 -0.920
+0.239 -0.018 -0.971
+0.089 -0.134 -0.987
+-0.177 -0.323 -0.930
+-0.767 -0.616 -0.177
+-0.590 -0.293 0.752
+-0.379 -0.099 0.920
+-0.212 0.039 0.977
+-0.063 0.157 0.986
+0.199 0.348 0.916
+0.765 0.628 0.141
+0.566 0.280 -0.775
+0.352 0.080 -0.932
+0.212 -0.039 -0.977
+0.063 -0.157 -0.986
+-0.199 -0.348 -0.916
+-0.765 -0.628 -0.141
+-0.566 -0.280 0.775
+-0.352 -0.080 0.932
+
+Colors
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+1.000 0.500 0.000
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 1 TexFunc 0
+
+
+TriStrip 26
+12 0 13 1 14 2 15 3 16 4 17 5 18 6 19 7 20 8 21 9 22 10 23 11 12 0 
+TriStrip 26
+24 12 25 13 26 14 27 15 28 16 29 17 30 18 31 19 32 20 33 21 34 22 35 23 24 12 
+TriStrip 26
+36 24 37 25 38 26 39 27 40 28 41 29 42 30 43 31 44 32 45 33 46 34 47 35 36 24 
+TriStrip 26
+48 36 49 37 50 38 51 39 52 40 53 41 54 42 55 43 56 44 57 45 58 46 59 47 48 36 
+TriStrip 26
+60 48 61 49 62 50 63 51 64 52 65 53 66 54 67 55 68 56 69 57 70 58 71 59 60 48 
+TriStrip 26
+72 60 73 61 74 62 75 63 76 64 77 65 78 66 79 67 80 68 81 69 82 70 83 71 72 60 
+TriStrip 26
+84 72 85 73 86 74 87 75 88 76 89 77 90 78 91 79 92 80 93 81 94 82 95 83 84 72 
+TriStrip 26
+96 84 97 85 98 86 99 87 100 88 101 89 102 90 103 91 104 92 105 93 106 94 107 95 96 84 
+TriStrip 26
+108 96 109 97 110 98 111 99 112 100 113 101 114 102 115 103 116 104 117 105 118 106 119 107 108 96 
+TriStrip 26
+120 108 121 109 122 110 123 111 124 112 125 113 126 114 127 115 128 116 129 117 130 118 131 119 120 108 
+TriStrip 26
+132 120 133 121 134 122 135 123 136 124 137 125 138 126 139 127 140 128 141 129 142 130 143 131 132 120 
+TriStrip 26
+144 132 145 133 146 134 147 135 148 136 149 137 150 138 151 139 152 140 153 141 154 142 155 143 144 132 
+TriStrip 26
+156 144 157 145 158 146 159 147 160 148 161 149 162 150 163 151 164 152 165 153 166 154 167 155 156 144 
+TriStrip 26
+168 156 169 157 170 158 171 159 172 160 173 161 174 162 175 163 176 164 177 165 178 166 179 167 168 156 
+TriStrip 26
+180 168 181 169 182 170 183 171 184 172 185 173 186 174 187 175 188 176 189 177 190 178 191 179 180 168 
+TriStrip 26
+192 180 193 181 194 182 195 183 196 184 197 185 198 186 199 187 200 188 201 189 202 190 203 191 192 180 
+TriStrip 26
+204 192 205 193 206 194 207 195 208 196 209 197 210 198 211 199 212 200 213 201 214 202 215 203 204 192 
+TriStrip 26
+216 204 217 205 218 206 219 207 220 208 221 209 222 210 223 211 224 212 225 213 226 214 227 215 216 204 
+TriStrip 26
+228 216 229 217 230 218 231 219 232 220 233 221 234 222 235 223 236 224 237 225 238 226 239 227 228 216 
+TriStrip 26
+240 228 241 229 242 230 243 231 244 232 245 233 246 234 247 235 248 236 249 237 250 238 251 239 240 228 
+TriStrip 26
+252 240 253 241 254 242 255 243 256 244 257 245 258 246 259 247 260 248 261 249 262 250 263 251 252 240 
+TriStrip 26
+264 252 265 253 266 254 267 255 268 256 269 257 270 258 271 259 272 260 273 261 274 262 275 263 264 252 
+TriStrip 26
+276 264 277 265 278 266 279 267 280 268 281 269 282 270 283 271 284 272 285 273 286 274 287 275 276 264 
+TriStrip 26
+288 276 289 277 290 278 291 279 292 280 293 281 294 282 295 283 296 284 297 285 298 286 299 287 288 276 
+TriStrip 26
+300 288 301 289 302 290 303 291 304 292 305 293 306 294 307 295 308 296 309 297 310 298 311 299 300 288 
+TriStrip 26
+312 300 313 301 314 302 315 303 316 304 317 305 318 306 319 307 320 308 321 309 322 310 323 311 312 300 
+TriStrip 26
+324 312 325 313 326 314 327 315 328 316 329 317 330 318 331 319 332 320 333 321 334 322 335 323 324 312 
+TriStrip 26
+336 324 337 325 338 326 339 327 340 328 341 329 342 330 343 331 344 332 345 333 346 334 347 335 336 324 
+TriStrip 26
+348 336 349 337 350 338 351 339 352 340 353 341 354 342 355 343 356 344 357 345 358 346 359 347 348 336 
+TriStrip 26
+360 348 361 349 362 350 363 351 364 352 365 353 366 354 367 355 368 356 369 357 370 358 371 359 360 348 
+TriStrip 26
+372 360 373 361 374 362 375 363 376 364 377 365 378 366 379 367 380 368 381 369 382 370 383 371 372 360 
+TriStrip 26
+384 372 385 373 386 374 387 375 388 376 389 377 390 378 391 379 392 380 393 381 394 382 395 383 384 372 
+TriStrip 26
+396 384 397 385 398 386 399 387 400 388 401 389 402 390 403 391 404 392 405 393 406 394 407 395 396 384 
+TriStrip 26
+408 396 409 397 410 398 411 399 412 400 413 401 414 402 415 403 416 404 417 405 418 406 419 407 408 396 
+TriStrip 26
+420 408 421 409 422 410 423 411 424 412 425 413 426 414 427 415 428 416 429 417 430 418 431 419 420 408 
+TriStrip 26
+432 420 433 421 434 422 435 423 436 424 437 425 438 426 439 427 440 428 441 429 442 430 443 431 432 420 
+TriStrip 26
+444 432 445 433 446 434 447 435 448 436 449 437 450 438 451 439 452 440 453 441 454 442 455 443 444 432 
+TriStrip 26
+456 444 457 445 458 446 459 447 460 448 461 449 462 450 463 451 464 452 465 453 466 454 467 455 456 444 
+TriStrip 26
+468 456 469 457 470 458 471 459 472 460 473 461 474 462 475 463 476 464 477 465 478 466 479 467 468 456 
+TriStrip 26
+480 468 481 469 482 470 483 471 484 472 485 473 486 474 487 475 488 476 489 477 490 478 491 479 480 468 
+TriStrip 26
+492 480 493 481 494 482 495 483 496 484 497 485 498 486 499 487 500 488 501 489 502 490 503 491 492 480 
+TriStrip 26
+504 492 505 493 506 494 507 495 508 496 509 497 510 498 511 499 512 500 513 501 514 502 515 503 504 492 
+TriStrip 26
+516 504 517 505 518 506 519 507 520 508 521 509 522 510 523 511 524 512 525 513 526 514 527 515 516 504 
+TriStrip 26
+528 516 529 517 530 518 531 519 532 520 533 521 534 522 535 523 536 524 537 525 538 526 539 527 528 516 
+TriStrip 26
+540 528 541 529 542 530 543 531 544 532 545 533 546 534 547 535 548 536 549 537 550 538 551 539 540 528 
+TriStrip 26
+552 540 553 541 554 542 555 543 556 544 557 545 558 546 559 547 560 548 561 549 562 550 563 551 552 540 
+TriStrip 26
+564 552 565 553 566 554 567 555 568 556 569 557 570 558 571 559 572 560 573 561 574 562 575 563 564 552 
+TriStrip 26
+576 564 577 565 578 566 579 567 580 568 581 569 582 570 583 571 584 572 585 573 586 574 587 575 576 564 
+TriStrip 26
+588 576 589 577 590 578 591 579 592 580 593 581 594 582 595 583 596 584 597 585 598 586 599 587 588 576 
+TriStrip 26
+600 588 601 589 602 590 603 591 604 592 605 593 606 594 607 595 608 596 609 597 610 598 611 599 600 588 
+TriStrip 26
+612 600 613 601 614 602 615 603 616 604 617 605 618 606 619 607 620 608 621 609 622 610 623 611 612 600 
+TriStrip 26
+624 612 625 613 626 614 627 615 628 616 629 617 630 618 631 619 632 620 633 621 634 622 635 623 624 612 
+TriStrip 26
+636 624 637 625 638 626 639 627 640 628 641 629 642 630 643 631 644 632 645 633 646 634 647 635 636 624 
+TriStrip 26
+648 636 649 637 650 638 651 639 652 640 653 641 654 642 655 643 656 644 657 645 658 646 659 647 648 636 
+TriStrip 26
+660 648 661 649 662 650 663 651 664 652 665 653 666 654 667 655 668 656 669 657 670 658 671 659 660 648 
+TriStrip 26
+672 660 673 661 674 662 675 663 676 664 677 665 678 666 679 667 680 668 681 669 682 670 683 671 672 660 
+TriStrip 26
+684 672 685 673 686 674 687 675 688 676 689 677 690 678 691 679 692 680 693 681 694 682 695 683 684 672 
+TriStrip 26
+696 684 697 685 698 686 699 687 700 688 701 689 702 690 703 691 704 692 705 693 706 694 707 695 696 684 
+TriStrip 26
+708 696 709 697 710 698 711 699 712 700 713 701 714 702 715 703 716 704 717 705 718 706 719 707 708 696 
+TriStrip 26
+720 708 721 709 722 710 723 711 724 712 725 713 726 714 727 715 728 716 729 717 730 718 731 719 720 708 
+TriStrip 26
+732 720 733 721 734 722 735 723 736 724 737 725 738 726 739 727 740 728 741 729 742 730 743 731 732 720 
+TriStrip 26
+744 732 745 733 746 734 747 735 748 736 749 737 750 738 751 739 752 740 753 741 754 742 755 743 744 732 
+TriStrip 26
+756 744 757 745 758 746 759 747 760 748 761 749 762 750 763 751 764 752 765 753 766 754 767 755 756 744 
+TriStrip 26
+768 756 769 757 770 758 771 759 772 760 773 761 774 762 775 763 776 764 777 765 778 766 779 767 768 756 
+TriStrip 26
+780 768 781 769 782 770 783 771 784 772 785 773 786 774 787 775 788 776 789 777 790 778 791 779 780 768 
+TriStrip 26
+792 780 793 781 794 782 795 783 796 784 797 785 798 786 799 787 800 788 801 789 802 790 803 791 792 780 
+TriStrip 26
+804 792 805 793 806 794 807 795 808 796 809 797 810 798 811 799 812 800 813 801 814 802 815 803 804 792 
+TriStrip 26
+816 804 817 805 818 806 819 807 820 808 821 809 822 810 823 811 824 812 825 813 826 814 827 815 816 804 
+TriStrip 26
+828 816 829 817 830 818 831 819 832 820 833 821 834 822 835 823 836 824 837 825 838 826 839 827 828 816 
+TriStrip 26
+840 828 841 829 842 830 843 831 844 832 845 833 846 834 847 835 848 836 849 837 850 838 851 839 840 828 
+TriStrip 26
+852 840 853 841 854 842 855 843 856 844 857 845 858 846 859 847 860 848 861 849 862 850 863 851 852 840 
+TriStrip 26
+864 852 865 853 866 854 867 855 868 856 869 857 870 858 871 859 872 860 873 861 874 862 875 863 864 852 
+TriStrip 26
+876 864 877 865 878 866 879 867 880 868 881 869 882 870 883 871 884 872 885 873 886 874 887 875 876 864 
+TriStrip 26
+888 876 889 877 890 878 891 879 892 880 893 881 894 882 895 883 896 884 897 885 898 886 899 887 888 876 
+TriStrip 26
+900 888 901 889 902 890 903 891 904 892 905 893 906 894 907 895 908 896 909 897 910 898 911 899 900 888 
+TriStrip 26
+912 900 913 901 914 902 915 903 916 904 917 905 918 906 919 907 920 908 921 909 922 910 923 911 912 900 
+TriStrip 26
+924 912 925 913 926 914 927 915 928 916 929 917 930 918 931 919 932 920 933 921 934 922 935 923 924 912 
+TriStrip 26
+936 924 937 925 938 926 939 927 940 928 941 929 942 930 943 931 944 932 945 933 946 934 947 935 936 924 
+TriStrip 26
+948 936 949 937 950 938 951 939 952 940 953 941 954 942 955 943 956 944 957 945 958 946 959 947 948 936 
+TriStrip 26
+960 948 961 949 962 950 963 951 964 952 965 953 966 954 967 955 968 956 969 957 970 958 971 959 960 948 
+TriStrip 26
+972 960 973 961 974 962 975 963 976 964 977 965 978 966 979 967 980 968 981 969 982 970 983 971 972 960 
+TriStrip 26
+984 972 985 973 986 974 987 975 988 976 989 977 990 978 991 979 992 980 993 981 994 982 995 983 984 972 
+TriStrip 26
+996 984 997 985 998 986 999 987 1000 988 1001 989 1002 990 1003 991 1004 992 1005 993 1006 994 1007 995 996 984 
+TriStrip 26
+1008 996 1009 997 1010 998 1011 999 1012 1000 1013 1001 1014 1002 1015 1003 1016 1004 1017 1005 1018 1006 1019 1007 1008 996 
+TriStrip 26
+1020 1008 1021 1009 1022 1010 1023 1011 1024 1012 1025 1013 1026 1014 1027 1015 1028 1016 1029 1017 1030 1018 1031 1019 1020 1008 
+TriStrip 26
+1032 1020 1033 1021 1034 1022 1035 1023 1036 1024 1037 1025 1038 1026 1039 1027 1040 1028 1041 1029 1042 1030 1043 1031 1032 1020 
+TriStrip 26
+1044 1032 1045 1033 1046 1034 1047 1035 1048 1036 1049 1037 1050 1038 1051 1039 1052 1040 1053 1041 1054 1042 1055 1043 1044 1032 
+TriStrip 26
+1056 1044 1057 1045 1058 1046 1059 1047 1060 1048 1061 1049 1062 1050 1063 1051 1064 1052 1065 1053 1066 1054 1067 1055 1056 1044 
+TriStrip 26
+1068 1056 1069 1057 1070 1058 1071 1059 1072 1060 1073 1061 1074 1062 1075 1063 1076 1064 1077 1065 1078 1066 1079 1067 1068 1056 
+TriStrip 26
+1080 1068 1081 1069 1082 1070 1083 1071 1084 1072 1085 1073 1086 1074 1087 1075 1088 1076 1089 1077 1090 1078 1091 1079 1080 1068 
+TriStrip 26
+1092 1080 1093 1081 1094 1082 1095 1083 1096 1084 1097 1085 1098 1086 1099 1087 1100 1088 1101 1089 1102 1090 1103 1091 1092 1080 
+TriStrip 26
+1104 1092 1105 1093 1106 1094 1107 1095 1108 1096 1109 1097 1110 1098 1111 1099 1112 1100 1113 1101 1114 1102 1115 1103 1104 1092 
+TriStrip 26
+1116 1104 1117 1105 1118 1106 1119 1107 1120 1108 1121 1109 1122 1110 1123 1111 1124 1112 1125 1113 1126 1114 1127 1115 1116 1104 
+TriStrip 26
+1128 1116 1129 1117 1130 1118 1131 1119 1132 1120 1133 1121 1134 1122 1135 1123 1136 1124 1137 1125 1138 1126 1139 1127 1128 1116 
+TriStrip 26
+1140 1128 1141 1129 1142 1130 1143 1131 1144 1132 1145 1133 1146 1134 1147 1135 1148 1136 1149 1137 1150 1138 1151 1139 1140 1128 
+TriStrip 26
+1152 1140 1153 1141 1154 1142 1155 1143 1156 1144 1157 1145 1158 1146 1159 1147 1160 1148 1161 1149 1162 1150 1163 1151 1152 1140 
+TriStrip 26
+1164 1152 1165 1153 1166 1154 1167 1155 1168 1156 1169 1157 1170 1158 1171 1159 1172 1160 1173 1161 1174 1162 1175 1163 1164 1152 
+TriStrip 26
+1176 1164 1177 1165 1178 1166 1179 1167 1180 1168 1181 1169 1182 1170 1183 1171 1184 1172 1185 1173 1186 1174 1187 1175 1176 1164 
+TriStrip 26
+1188 1176 1189 1177 1190 1178 1191 1179 1192 1180 1193 1181 1194 1182 1195 1183 1196 1184 1197 1185 1198 1186 1199 1187 1188 1176 
+TriStrip 26
+1200 1188 1201 1189 1202 1190 1203 1191 1204 1192 1205 1193 1206 1194 1207 1195 1208 1196 1209 1197 1210 1198 1211 1199 1200 1188 
+TriStrip 26
+1212 1200 1213 1201 1214 1202 1215 1203 1216 1204 1217 1205 1218 1206 1219 1207 1220 1208 1221 1209 1222 1210 1223 1211 1212 1200 
+TriStrip 26
+1224 1212 1225 1213 1226 1214 1227 1215 1228 1216 1229 1217 1230 1218 1231 1219 1232 1220 1233 1221 1234 1222 1235 1223 1224 1212 
+TriStrip 26
+1236 1224 1237 1225 1238 1226 1239 1227 1240 1228 1241 1229 1242 1230 1243 1231 1244 1232 1245 1233 1246 1234 1247 1235 1236 1224 
+TriStrip 26
+1248 1236 1249 1237 1250 1238 1251 1239 1252 1240 1253 1241 1254 1242 1255 1243 1256 1244 1257 1245 1258 1246 1259 1247 1248 1236 
+TriStrip 26
+1260 1248 1261 1249 1262 1250 1263 1251 1264 1252 1265 1253 1266 1254 1267 1255 1268 1256 1269 1257 1270 1258 1271 1259 1260 1248 
+TriStrip 26
+1272 1260 1273 1261 1274 1262 1275 1263 1276 1264 1277 1265 1278 1266 1279 1267 1280 1268 1281 1269 1282 1270 1283 1271 1272 1260 
+TriStrip 26
+1284 1272 1285 1273 1286 1274 1287 1275 1288 1276 1289 1277 1290 1278 1291 1279 1292 1280 1293 1281 1294 1282 1295 1283 1284 1272 
+TriStrip 26
+1296 1284 1297 1285 1298 1286 1299 1287 1300 1288 1301 1289 1302 1290 1303 1291 1304 1292 1305 1293 1306 1294 1307 1295 1296 1284 
+TriStrip 26
+1308 1296 1309 1297 1310 1298 1311 1299 1312 1300 1313 1301 1314 1302 1315 1303 1316 1304 1317 1305 1318 1306 1319 1307 1308 1296 
+TriStrip 26
+1320 1308 1321 1309 1322 1310 1323 1311 1324 1312 1325 1313 1326 1314 1327 1315 1328 1316 1329 1317 1330 1318 1331 1319 1320 1308 
+TriStrip 26
+1332 1320 1333 1321 1334 1322 1335 1323 1336 1324 1337 1325 1338 1326 1339 1327 1340 1328 1341 1329 1342 1330 1343 1331 1332 1320 
+TriStrip 26
+1344 1332 1345 1333 1346 1334 1347 1335 1348 1336 1349 1337 1350 1338 1351 1339 1352 1340 1353 1341 1354 1342 1355 1343 1344 1332 
+TriStrip 26
+1356 1344 1357 1345 1358 1346 1359 1347 1360 1348 1361 1349 1362 1350 1363 1351 1364 1352 1365 1353 1366 1354 1367 1355 1356 1344 
+TriStrip 26
+1368 1356 1369 1357 1370 1358 1371 1359 1372 1360 1373 1361 1374 1362 1375 1363 1376 1364 1377 1365 1378 1366 1379 1367 1368 1356 
+TriStrip 26
+1380 1368 1381 1369 1382 1370 1383 1371 1384 1372 1385 1373 1386 1374 1387 1375 1388 1376 1389 1377 1390 1378 1391 1379 1380 1368 
+TriStrip 26
+1392 1380 1393 1381 1394 1382 1395 1383 1396 1384 1397 1385 1398 1386 1399 1387 1400 1388 1401 1389 1402 1390 1403 1391 1392 1380 
+TriStrip 26
+1404 1392 1405 1393 1406 1394 1407 1395 1408 1396 1409 1397 1410 1398 1411 1399 1412 1400 1413 1401 1414 1402 1415 1403 1404 1392 
+TriStrip 26
+1416 1404 1417 1405 1418 1406 1419 1407 1420 1408 1421 1409 1422 1410 1423 1411 1424 1412 1425 1413 1426 1414 1427 1415 1416 1404 
+TriStrip 26
+1428 1416 1429 1417 1430 1418 1431 1419 1432 1420 1433 1421 1434 1422 1435 1423 1436 1424 1437 1425 1438 1426 1439 1427 1428 1416 
+TriStrip 26
+1440 1428 1441 1429 1442 1430 1443 1431 1444 1432 1445 1433 1446 1434 1447 1435 1448 1436 1449 1437 1450 1438 1451 1439 1440 1428 
+TriStrip 26
+1452 1440 1453 1441 1454 1442 1455 1443 1456 1444 1457 1445 1458 1446 1459 1447 1460 1448 1461 1449 1462 1450 1463 1451 1452 1440 
+TriStrip 26
+1464 1452 1465 1453 1466 1454 1467 1455 1468 1456 1469 1457 1470 1458 1471 1459 1472 1460 1473 1461 1474 1462 1475 1463 1464 1452 
+TriStrip 26
+1476 1464 1477 1465 1478 1466 1479 1467 1480 1468 1481 1469 1482 1470 1483 1471 1484 1472 1485 1473 1486 1474 1487 1475 1476 1464 
+TriStrip 26
+1488 1476 1489 1477 1490 1478 1491 1479 1492 1480 1493 1481 1494 1482 1495 1483 1496 1484 1497 1485 1498 1486 1499 1487 1488 1476 
+TriStrip 26
+1500 1488 1501 1489 1502 1490 1503 1491 1504 1492 1505 1493 1506 1494 1507 1495 1508 1496 1509 1497 1510 1498 1511 1499 1500 1488 
+TriStrip 26
+1512 1500 1513 1501 1514 1502 1515 1503 1516 1504 1517 1505 1518 1506 1519 1507 1520 1508 1521 1509 1522 1510 1523 1511 1512 1500 
+TriStrip 26
+1524 1512 1525 1513 1526 1514 1527 1515 1528 1516 1529 1517 1530 1518 1531 1519 1532 1520 1533 1521 1534 1522 1535 1523 1524 1512 
+TriStrip 26
+1536 1524 1537 1525 1538 1526 1539 1527 1540 1528 1541 1529 1542 1530 1543 1531 1544 1532 1545 1533 1546 1534 1547 1535 1536 1524 
+TriStrip 26
+1548 1536 1549 1537 1550 1538 1551 1539 1552 1540 1553 1541 1554 1542 1555 1543 1556 1544 1557 1545 1558 1546 1559 1547 1548 1536 
+TriStrip 26
+1560 1548 1561 1549 1562 1550 1563 1551 1564 1552 1565 1553 1566 1554 1567 1555 1568 1556 1569 1557 1570 1558 1571 1559 1560 1548 
+TriStrip 26
+1572 1560 1573 1561 1574 1562 1575 1563 1576 1564 1577 1565 1578 1566 1579 1567 1580 1568 1581 1569 1582 1570 1583 1571 1572 1560 
+TriStrip 26
+1584 1572 1585 1573 1586 1574 1587 1575 1588 1576 1589 1577 1590 1578 1591 1579 1592 1580 1593 1581 1594 1582 1595 1583 1584 1572 
+TriStrip 26
+1596 1584 1597 1585 1598 1586 1599 1587 1600 1588 1601 1589 1602 1590 1603 1591 1604 1592 1605 1593 1606 1594 1607 1595 1596 1584 
+TriStrip 26
+1608 1596 1609 1597 1610 1598 1611 1599 1612 1600 1613 1601 1614 1602 1615 1603 1616 1604 1617 1605 1618 1606 1619 1607 1608 1596 
+TriStrip 26
+1620 1608 1621 1609 1622 1610 1623 1611 1624 1612 1625 1613 1626 1614 1627 1615 1628 1616 1629 1617 1630 1618 1631 1619 1620 1608 
+TriStrip 26
+1632 1620 1633 1621 1634 1622 1635 1623 1636 1624 1637 1625 1638 1626 1639 1627 1640 1628 1641 1629 1642 1630 1643 1631 1632 1620 
+TriStrip 26
+1644 1632 1645 1633 1646 1634 1647 1635 1648 1636 1649 1637 1650 1638 1651 1639 1652 1640 1653 1641 1654 1642 1655 1643 1644 1632 
+TriStrip 26
+1656 1644 1657 1645 1658 1646 1659 1647 1660 1648 1661 1649 1662 1650 1663 1651 1664 1652 1665 1653 1666 1654 1667 1655 1656 1644 
+TriStrip 26
+1668 1656 1669 1657 1670 1658 1671 1659 1672 1660 1673 1661 1674 1662 1675 1663 1676 1664 1677 1665 1678 1666 1679 1667 1668 1656 
+TriStrip 26
+1680 1668 1681 1669 1682 1670 1683 1671 1684 1672 1685 1673 1686 1674 1687 1675 1688 1676 1689 1677 1690 1678 1691 1679 1680 1668 
+End_VertexArray
+# MoleculeID: 8 ReprID: 2 Beginning VDW
+Sphere 
+  Center -0.00701214 -0.179475 -0.0144177 
+   Rad 0.0713825 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+Sphere 
+  Center 0.052286 -0.0314934 -0.0287778 
+   Rad 0.0713825 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+Sphere 
+  Center 0.221865 -0.294712 0.0223725 
+   Rad 0.0713825 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+Sphere 
+  Center 0.240255 0.16352 0.139939 
+   Rad 0.0713825 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+Sphere 
+  Center 0.543208 0.0857953 0.0899666 
+   Rad 0.0713825 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+Sphere 
+  Center 0.623097 -0.145006 0.187344 
+   Rad 0.0713825 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+Sphere 
+  Center 0.377014 -0.238654 0.365746 
+   Rad 0.0713825 
+Texture
+  Ambient 0 Diffuse 0.65 Specular 0 Opacity 1
+  Phong Plastic 0.5 Phong_size 40 Color 0 0 0 TexFunc 0
+
+End_Scene 
